@@ -32,7 +32,7 @@ that is the point of subscribing rather than importing.
 import hashlib
 import importlib.util
 import pathlib
-from datetime import date, datetime, timedelta, timezone
+from datetime import date, timedelta
 
 HERE = pathlib.Path(__file__).parent
 OUTFILE = HERE / "dku_academic_calendar.ics"
@@ -41,6 +41,12 @@ CAL_DESC = ("Duke Kunshan University academic calendar. Transcribed from the "
             "Office of the Registrar. Calendar subject to change.")
 UID_DOMAIN = "dku-academic-calendar.local"
 HOME_URL = "https://registrar.dukekunshan.edu.cn/academic-calendar/"
+
+# Deliberately a fixed constant, not the current time: it keeps rebuilds
+# byte-identical, so `git status` after `python3 build.py` shows a diff only
+# when the calendar data actually changed. Clients resolve updates by UID
+# (and SEQUENCE), so a static DTSTAMP costs nothing here.
+BUILD_STAMP = "20260722T000000Z"
 
 
 def esc(text):
@@ -86,8 +92,6 @@ def load_years():
 
 def build():
     years = load_years()
-    stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
-
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
@@ -125,7 +129,7 @@ def build():
 
             lines.append("BEGIN:VEVENT")
             lines.append(f"UID:{u}")
-            lines.append(f"DTSTAMP:{stamp}")
+            lines.append(f"DTSTAMP:{BUILD_STAMP}")
             lines.append("SEQUENCE:0")
             if " " in start:                       # timed
                 d, t = start.split()
