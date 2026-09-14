@@ -4,7 +4,8 @@ An importable / subscribable calendar of Duke Kunshan University academic
 dates, transcribed from the [Office of the
 Registrar](https://registrar.dukekunshan.edu.cn/academic-calendar/).
 
-**Currently covers AY2025-26 and AY2026-27 — 120 events.**
+**Currently covers AY2025-26 and AY2026-27 — 126 events**, including Sports
+Complex holiday closures from Athletics notices.
 
 ## Subscribe
 
@@ -48,6 +49,10 @@ and double-click it instead.)*
 - Events are marked free (`TRANSP:TRANSPARENT`), so the calendar doesn't make
   you look busy to colleagues checking your availability.
 - Each event is tagged with its academic year (`DKU AY2026-27`) as a category.
+- Sports Complex closures and holiday service hours from Athletics emails are
+  tagged `DKU Athletics` and name the notice as their source. To add a future
+  notice, add rows to (or copy) `years/ay2026_27_athletics.py` — set
+  `SOURCE_URL = None` plus a `SOURCE` line when there's no web page to link.
 
 ## Repo layout
 
@@ -55,6 +60,7 @@ and double-click it instead.)*
 build.py                     the generator + self-checks
 years/ay2025_26.py           one editable table per academic year
 years/ay2026_27.py
+years/ay2026_27_athletics.py Sports Complex / facility notices (not from the registrar)
 dku_academic_calendar.ics    the built output — this is what people subscribe to
 ```
 

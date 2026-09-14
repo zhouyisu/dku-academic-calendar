@@ -28,8 +28,8 @@ DTEND;TZID=Asia/Shanghai:20250808T090000
 SUMMARY:Move-in: new international UG + int'l 1st-year grad
 DESCRIPTION:Friday at 9:00 AM. All new international undergraduate students
   (Class of 2029) and international first-year graduate students move-in.\n
- \nAY2025-26 \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite/2
- 025/11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ \nAY2025-26 — source: https://newstatic.dukekunshan.edu.cn/mainsite/2025
+ /11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -46,8 +46,8 @@ DTEND;TZID=Asia/Shanghai:20250810T090000
 SUMMARY:Move-in: new Chinese UG + Chinese 1st-year grad
 DESCRIPTION:Sunday at 9:00 AM. All new Chinese undergraduate students (Clas
  s of 2029) and Chinese first-year graduate students move-in.\n\nAY2025-26 
- \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102
- 804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ — source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804
+ /DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -63,8 +63,8 @@ DTSTART;TZID=Asia/Shanghai:20250815T090000
 DTEND;TZID=Asia/Shanghai:20250815T090000
 SUMMARY:Move-in: returning UG + grad students
 DESCRIPTION:Friday at 9:00 AM. Returning undergraduate and graduate student
- s move-in.\n\nAY2025-26 \u2014 source: https://newstatic.dukekunshan.edu.c
- n/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ s move-in.\n\nAY2025-26 — source: https://newstatic.dukekunshan.edu.cn/m
+ ainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -80,8 +80,8 @@ DTSTART;VALUE=DATE:20250818
 DTEND;VALUE=DATE:20250819
 SUMMARY:Fall 2025 classes begin (UG + grad)
 DESCRIPTION:Monday. Undergraduate and graduate classes begin.\n\nAY2025-26 
- \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102
- 804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ — source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804
+ /DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -97,8 +97,8 @@ DTSTART;VALUE=DATE:20250821
 DTEND;VALUE=DATE:20250822
 SUMMARY:Drop/add ends - 1st 7-week UG session
 DESCRIPTION:Thursday. Drop/add ends for first 7-week undergraduate session.
- \n\nAY2025-26 \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite
- /2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ \n\nAY2025-26 — source: https://newstatic.dukekunshan.edu.cn/mainsite/20
+ 25/11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -114,8 +114,8 @@ DTSTART;VALUE=DATE:20250828
 DTEND;VALUE=DATE:20250829
 SUMMARY:Drop/add ends - 14-week UG session
 DESCRIPTION:Thursday. Drop/add ends for 14-week undergraduate session.\n\nA
- Y2025-26 \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite/2025
- /11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ Y2025-26 — source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11
+ /21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -130,9 +130,9 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20250829
 DTEND;VALUE=DATE:20250830
 SUMMARY:Drop/add ends - graduate classes
-DESCRIPTION:Friday. Drop/add ends for graduate classes.\n\nAY2025-26 \u2014
-  source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DK
- U-Acdemic-Calendar-2025-2026_250919_v2.pdf
+DESCRIPTION:Friday. Drop/add ends for graduate classes.\n\nAY2025-26 — so
+ urce: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-A
+ cdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -150,8 +150,8 @@ SUMMARY:Deadlines - 1st 7-week W / grading basis / I grades
 DESCRIPTION:Thursday. Last day to withdraw with a W grade of first 7-week c
  lasses\; Last day to change grading basis of first 7-week classes\; Last d
  ay to resolve I grade of second seven-week classes in spring 2025.\n\nAY20
- 25-26 \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11
- /21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ 25-26 — source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21
+ 102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -167,9 +167,9 @@ DTSTART;VALUE=DATE:20251001
 DTEND;VALUE=DATE:20251009
 SUMMARY:National Day + Mid-Autumn Festival - No classes
 DESCRIPTION:Wednesday - Wednesday. National Day Holiday and Mid-autumn Fest
- ival - No classes.\n\nAY2025-26 \u2014 source: https://newstatic.dukekunsh
- an.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_
- v2.pdf
+ ival - No classes.\n\nAY2025-26 — source: https://newstatic.dukekunshan.
+ edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.
+ pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -185,9 +185,9 @@ DTSTART;VALUE=DATE:20251009
 DTEND;VALUE=DATE:20251010
 SUMMARY:All classes resume\; Wednesday class schedule in effect
 DESCRIPTION:Thursday. All classes resume. The Wednesday class meeting sched
- ule is in effect on this day.\n\nAY2025-26 \u2014 source: https://newstati
- c.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2
- 026_250919_v2.pdf
+ ule is in effect on this day.\n\nAY2025-26 — source: https://newstatic.d
+ ukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026
+ _250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -203,9 +203,9 @@ DTSTART;VALUE=DATE:20251010
 DTEND;VALUE=DATE:20251011
 SUMMARY:Thursday class schedule in effect\; 1st 7-week UG session ends
 DESCRIPTION:Friday. The Thursday meeting schedule is in effect on this day.
-  First 7-week undergraduate session end.\n\nAY2025-26 \u2014 source: https
- ://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Cale
- ndar-2025-2026_250919_v2.pdf
+  First 7-week undergraduate session end.\n\nAY2025-26 — source: https://
+ newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calenda
+ r-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -220,9 +220,9 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20251011
 DTEND;VALUE=DATE:20251013
 SUMMARY:UG reading period
-DESCRIPTION:Saturday-Sunday. Undergraduate reading period.\n\nAY2025-26 \u2
- 014 source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804
- /DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+DESCRIPTION:Saturday-Sunday. Undergraduate reading period.\n\nAY2025-26 —
+  source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DK
+ U-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -238,9 +238,9 @@ DTSTART;VALUE=DATE:20251013
 DTEND;VALUE=DATE:20251017
 SUMMARY:1st 7-week UG final examinations
 DESCRIPTION:Monday-Thursday. First 7-week undergraduate session final exami
- nations. Graduate classes continue.\n\nAY2025-26 \u2014 source: https://ne
- wstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-
- 2025-2026_250919_v2.pdf
+ nations. Graduate classes continue.\n\nAY2025-26 — source: https://newst
+ atic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-202
+ 5-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -256,8 +256,8 @@ DTSTART;VALUE=DATE:20251020
 DTEND;VALUE=DATE:20251021
 SUMMARY:2nd 7-week UG session begins
 DESCRIPTION:Monday. Second 7-week undergraduate session begins.\n\nAY2025-2
- 6 \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/211
- 02804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ 6 — source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/211028
+ 04/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -273,8 +273,8 @@ DTSTART;VALUE=DATE:20251023
 DTEND;VALUE=DATE:20251024
 SUMMARY:Drop/add ends - 2nd 7-week UG session
 DESCRIPTION:Thursday. Drop/add ends for second 7-week undergraduate session
- .\n\nAY2025-26 \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsit
- e/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ .\n\nAY2025-26 — source: https://newstatic.dukekunshan.edu.cn/mainsite/2
+ 025/11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -290,9 +290,9 @@ DTSTART;VALUE=DATE:20251106
 DTEND;VALUE=DATE:20251107
 SUMMARY:Deadlines - 14-week W / grading basis
 DESCRIPTION:Thursday. Last day to withdraw with a W grade of 14-week classe
- s. Last day to change grading basis of 14-week classes.\n\nAY2025-26 \u201
- 4 source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/D
- KU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ s. Last day to change grading basis of 14-week classes.\n\nAY2025-26 — s
+ ource: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-
+ Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -310,9 +310,9 @@ SUMMARY:Graduate classes end\; 2nd 7-week W / grading / I deadlines
 DESCRIPTION:Thursday. Graduate classes end (ECE classes continue)\; Last da
  y to withdraw with a W grade of second 7-week classes\; Last day to change
   grading basis of second 7-week classes\; Last day to resolve I grade of f
- irst 7-week classes.\n\nAY2025-26 \u2014 source: https://newstatic.dukekun
- shan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_25091
- 9_v2.pdf
+ irst 7-week classes.\n\nAY2025-26 — source: https://newstatic.dukekunsha
+ n.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v
+ 2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -328,8 +328,8 @@ DTSTART;VALUE=DATE:20251121
 DTEND;VALUE=DATE:20251126
 SUMMARY:Graduate reading days
 DESCRIPTION:Friday-Tuesday. Graduate reading days\; ECE classes continue.\n
- \nAY2025-26 \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite/2
- 025/11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ \nAY2025-26 — source: https://newstatic.dukekunshan.edu.cn/mainsite/2025
+ /11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -344,9 +344,9 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20251126
 DTEND;VALUE=DATE:20251129
 SUMMARY:Graduate exams
-DESCRIPTION:Wednesday-Friday. Graduate exams.\n\nAY2025-26 \u2014 source: h
- ttps://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-
- Calendar-2025-2026_250919_v2.pdf
+DESCRIPTION:Wednesday-Friday. Graduate exams.\n\nAY2025-26 — source: http
+ s://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Cal
+ endar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -361,9 +361,9 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20251127
 DTEND;VALUE=DATE:20251128
 SUMMARY:ECE classes end
-DESCRIPTION:Thursday. ECE classes end.\n\nAY2025-26 \u2014 source: https://
- newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calenda
- r-2025-2026_250919_v2.pdf
+DESCRIPTION:Thursday. ECE classes end.\n\nAY2025-26 — source: https://new
+ static.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2
+ 025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -378,9 +378,9 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251203
 SUMMARY:ECE program reading days
-DESCRIPTION:Friday-Tuesday. ECE program reading days.\n\nAY2025-26 \u2014 s
- ource: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-
- Acdemic-Calendar-2025-2026_250919_v2.pdf
+DESCRIPTION:Friday-Tuesday. ECE program reading days.\n\nAY2025-26 — sour
+ ce: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acd
+ emic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -395,9 +395,9 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20251203
 DTEND;VALUE=DATE:20251206
 SUMMARY:ECE program exam period
-DESCRIPTION:Wednesday-Friday. ECE program exam period.\n\nAY2025-26 \u2014 
- source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU
- -Acdemic-Calendar-2025-2026_250919_v2.pdf
+DESCRIPTION:Wednesday-Friday. ECE program exam period.\n\nAY2025-26 — sou
+ rce: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Ac
+ demic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -413,8 +413,8 @@ DTSTART;VALUE=DATE:20251204
 DTEND;VALUE=DATE:20251205
 SUMMARY:2nd 7-week UG session ends
 DESCRIPTION:Thursday. Second 7-week undergraduate session ends.\n\nAY2025-2
- 6 \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/211
- 02804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ 6 — source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/211028
+ 04/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -429,9 +429,9 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20251205
 DTEND;VALUE=DATE:20251208
 SUMMARY:UG reading period
-DESCRIPTION:Friday-Sunday. Undergraduate reading period.\n\nAY2025-26 \u201
- 4 source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/D
- KU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+DESCRIPTION:Friday-Sunday. Undergraduate reading period.\n\nAY2025-26 — s
+ ource: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-
+ Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -447,8 +447,8 @@ DTSTART;VALUE=DATE:20251208
 DTEND;VALUE=DATE:20251212
 SUMMARY:UG final examinations
 DESCRIPTION:Monday-Thursday. Undergraduate final examinations.\n\nAY2025-26
-  \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/2110
- 2804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+  — source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/2110280
+ 4/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -464,8 +464,8 @@ DTSTART;TZID=Asia/Shanghai:20251212T130000
 DTEND;TZID=Asia/Shanghai:20251212T130000
 SUMMARY:Residence halls close for Winter Break
 DESCRIPTION:Friday at 13:00. All residence halls close for Winter Break.\n\
- nAY2025-26 \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite/20
- 25/11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ nAY2025-26 — source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/
+ 11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -480,9 +480,9 @@ SEQUENCE:0
 DTSTART;TZID=Asia/Shanghai:20260103T090000
 DTEND;TZID=Asia/Shanghai:20260103T090000
 SUMMARY:Residence halls reopen
-DESCRIPTION:Saturday at 9:00 AM. All residence halls reopen.\n\nAY2025-26 \
- u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/211028
- 04/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+DESCRIPTION:Saturday at 9:00 AM. All residence halls reopen.\n\nAY2025-26 
+ — source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804
+ /DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -498,8 +498,8 @@ DTSTART;VALUE=DATE:20260105
 DTEND;VALUE=DATE:20260106
 SUMMARY:Spring 2026 classes begin (UG + grad)
 DESCRIPTION:Monday. Undergraduate and graduate classes begin.\n\nAY2025-26 
- \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102
- 804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ — source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804
+ /DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -515,8 +515,8 @@ DTSTART;VALUE=DATE:20260108
 DTEND;VALUE=DATE:20260109
 SUMMARY:Drop/add ends - 1st 7-week UG session
 DESCRIPTION:Thursday. Drop/add ends for first 7-week undergraduate session.
- \n\nAY2025-26 \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite
- /2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ \n\nAY2025-26 — source: https://newstatic.dukekunshan.edu.cn/mainsite/20
+ 25/11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -532,8 +532,8 @@ DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260116
 SUMMARY:Drop/add ends - 14-week UG session
 DESCRIPTION:Thursday. Drop/add ends for 14-week undergraduate session.\n\nA
- Y2025-26 \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite/2025
- /11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ Y2025-26 — source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11
+ /21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -548,9 +548,9 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20260116
 DTEND;VALUE=DATE:20260117
 SUMMARY:Drop/add ends - graduate classes
-DESCRIPTION:Friday. Drop/add ends for graduate classes.\n\nAY2025-26 \u2014
-  source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DK
- U-Acdemic-Calendar-2025-2026_250919_v2.pdf
+DESCRIPTION:Friday. Drop/add ends for graduate classes.\n\nAY2025-26 — so
+ urce: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-A
+ cdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -567,9 +567,9 @@ DTEND;VALUE=DATE:20260206
 SUMMARY:Deadlines - 1st 7-week W / grading basis / I grades
 DESCRIPTION:Thursday. Last day to withdraw with a W grade of first 7-week c
  lasses\; Last day to change grading basis of first 7-week classes\; Last d
- ay to resolve I grade of fall 2025 second 7-week classes.\n\nAY2025-26 \u2
- 014 source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804
- /DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ ay to resolve I grade of fall 2025 second 7-week classes.\n\nAY2025-26 —
+  source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DK
+ U-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -585,8 +585,8 @@ DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260214
 SUMMARY:Monday class schedule in effect
 DESCRIPTION:Friday. The Monday class schedule is in effect on this day.\n\n
- AY2025-26 \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite/202
- 5/11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ AY2025-26 — source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/1
+ 1/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -602,8 +602,8 @@ DTSTART;VALUE=DATE:20260216
 DTEND;VALUE=DATE:20260224
 SUMMARY:Spring Festival (Chinese New Year) - No classes
 DESCRIPTION:Monday-Monday. Spring Festival Holiday - Chinese New Year - No 
- classes.\n\nAY2025-26 \u2014 source: https://newstatic.dukekunshan.edu.cn/
- mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ classes.\n\nAY2025-26 — source: https://newstatic.dukekunshan.edu.cn/mai
+ nsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -618,9 +618,9 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20260224
 DTEND;VALUE=DATE:20260225
 SUMMARY:All classes resume
-DESCRIPTION:Tuesday. All classes resume.\n\nAY2025-26 \u2014 source: https:
- //newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calen
- dar-2025-2026_250919_v2.pdf
+DESCRIPTION:Tuesday. All classes resume.\n\nAY2025-26 — source: https://n
+ ewstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar
+ -2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -636,8 +636,8 @@ DTSTART;VALUE=DATE:20260226
 DTEND;VALUE=DATE:20260227
 SUMMARY:1st 7-week UG session ends
 DESCRIPTION:Thursday. First 7-week undergraduate session ends.\n\nAY2025-26
-  \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/2110
- 2804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+  — source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/2110280
+ 4/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -652,9 +652,9 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260302
 SUMMARY:UG reading days
-DESCRIPTION:Friday-Sunday. Undergraduate Reading Days.\n\nAY2025-26 \u2014 
- source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU
- -Acdemic-Calendar-2025-2026_250919_v2.pdf
+DESCRIPTION:Friday-Sunday. Undergraduate Reading Days.\n\nAY2025-26 — sou
+ rce: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Ac
+ demic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -670,9 +670,9 @@ DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260306
 SUMMARY:1st 7-week UG final examinations
 DESCRIPTION:Monday-Thursday. First 7-week undergraduate session final exami
- nations. Graduate classes continue.\n\nAY2025-26 \u2014 source: https://ne
- wstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-
- 2025-2026_250919_v2.pdf
+ nations. Graduate classes continue.\n\nAY2025-26 — source: https://newst
+ atic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-202
+ 5-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -688,9 +688,9 @@ DTSTART;VALUE=DATE:20260309
 DTEND;VALUE=DATE:20260314
 SUMMARY:Mini-term week (UG) / Spring recess (grad)
 DESCRIPTION:Monday-Friday. Mini-term week for undergraduate students\; Spri
- ng recess for graduate programs.\n\nAY2025-26 \u2014 source: https://newst
- atic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-202
- 5-2026_250919_v2.pdf
+ ng recess for graduate programs.\n\nAY2025-26 — source: https://newstati
+ c.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2
+ 026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -706,8 +706,8 @@ DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260317
 SUMMARY:2nd 7-week UG session begins
 DESCRIPTION:Monday. Second 7-week undergraduate session begins.\n\nAY2025-2
- 6 \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/211
- 02804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ 6 — source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/211028
+ 04/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -723,8 +723,8 @@ DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260320
 SUMMARY:Drop/add ends - 2nd 7-week UG session
 DESCRIPTION:Thursday. Drop/add ends for second 7-week undergraduate session
- .\n\nAY2025-26 \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsit
- e/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ .\n\nAY2025-26 — source: https://newstatic.dukekunshan.edu.cn/mainsite/2
+ 025/11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -740,9 +740,9 @@ DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260403
 SUMMARY:Deadlines - 14-week W / grading basis
 DESCRIPTION:Thursday. Last day to withdraw with a W grade of 14-week classe
- s. Last day to change grading basis of 14-week classes.\n\nAY2025-26 \u201
- 4 source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/D
- KU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ s. Last day to change grading basis of 14-week classes.\n\nAY2025-26 — s
+ ource: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-
+ Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -758,8 +758,8 @@ DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260406
 SUMMARY:Qing Ming (Tomb Sweeping Day) - No classes
 DESCRIPTION:Friday-Sunday. Qing Ming - Tomb Sweeping Day - No classes.\n\nA
- Y2025-26 \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite/2025
- /11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ Y2025-26 — source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11
+ /21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -777,9 +777,9 @@ SUMMARY:Graduate classes end\; 2nd 7-week W / grading / I deadlines
 DESCRIPTION:Thursday. Graduate classes end (ECE classes continue)\; Last da
  y to withdraw with a W grade of second 7-week classes\; Last day to change
   grading basis for second 7-week classes\; Last day for I grade change of 
- spring 2026 first 7-week classes.\n\nAY2025-26 \u2014 source: https://news
- tatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-20
- 25-2026_250919_v2.pdf
+ spring 2026 first 7-week classes.\n\nAY2025-26 — source: https://newstat
+ ic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-
+ 2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -794,9 +794,9 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260422
 SUMMARY:Graduate reading days
-DESCRIPTION:Friday-Tuesday. Graduate Reading Days.\n\nAY2025-26 \u2014 sour
- ce: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acd
- emic-Calendar-2025-2026_250919_v2.pdf
+DESCRIPTION:Friday-Tuesday. Graduate Reading Days.\n\nAY2025-26 — source:
+  https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemi
+ c-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -812,8 +812,8 @@ DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260425
 SUMMARY:Graduate exams
 DESCRIPTION:Wednesday-Friday. Graduate exams\; ECE classes continue.\n\nAY2
- 025-26 \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/1
- 1/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ 025-26 — source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/2
+ 1102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -828,9 +828,9 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
 SUMMARY:ECE classes end
-DESCRIPTION:Thursday. ECE Classes end.\n\nAY2025-26 \u2014 source: https://
- newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calenda
- r-2025-2026_250919_v2.pdf
+DESCRIPTION:Thursday. ECE Classes end.\n\nAY2025-26 — source: https://new
+ static.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2
+ 025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -845,9 +845,9 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260427
 SUMMARY:ECE program reading days
-DESCRIPTION:Friday-Sunday. ECE program reading days.\n\nAY2025-26 \u2014 so
- urce: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-A
- cdemic-Calendar-2025-2026_250919_v2.pdf
+DESCRIPTION:Friday-Sunday. ECE program reading days.\n\nAY2025-26 — sourc
+ e: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -862,9 +862,9 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20260427
 DTEND;VALUE=DATE:20260430
 SUMMARY:ECE program exam period
-DESCRIPTION:Monday-Wednesday. ECE program exam period.\n\nAY2025-26 \u2014 
- source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU
- -Acdemic-Calendar-2025-2026_250919_v2.pdf
+DESCRIPTION:Monday-Wednesday. ECE program exam period.\n\nAY2025-26 — sou
+ rce: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Ac
+ demic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -880,8 +880,8 @@ DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260504
 SUMMARY:International Labor Day Holiday - No classes
 DESCRIPTION:Friday-Sunday. International Labor Day Holiday - No classes.\n\
- nAY2025-26 \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite/20
- 25/11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ nAY2025-26 — source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/
+ 11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -896,9 +896,9 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260504
 SUMMARY:UG reading days
-DESCRIPTION:Friday-Sunday. Undergraduate Reading Days.\n\nAY2025-26 \u2014 
- source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU
- -Acdemic-Calendar-2025-2026_250919_v2.pdf
+DESCRIPTION:Friday-Sunday. Undergraduate Reading Days.\n\nAY2025-26 — sou
+ rce: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Ac
+ demic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -914,8 +914,8 @@ DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260508
 SUMMARY:UG final exam period
 DESCRIPTION:Monday-Thursday. Undergraduate final exam period.\n\nAY2025-26 
- \u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102
- 804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+ — source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804
+ /DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -930,9 +930,9 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Commencement (Graduate + Undergraduate)
-DESCRIPTION:Friday. Graduate and Undergraduate Commencement.\n\nAY2025-26 \
- u2014 source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/211028
- 04/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+DESCRIPTION:Friday. Graduate and Undergraduate Commencement.\n\nAY2025-26 
+ — source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804
+ /DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -947,9 +947,9 @@ SEQUENCE:0
 DTSTART;TZID=Asia/Shanghai:20260516T130000
 DTEND;TZID=Asia/Shanghai:20260516T130000
 SUMMARY:All residence halls close
-DESCRIPTION:Saturday at 13:00. All residence halls close.\n\nAY2025-26 \u20
- 14 source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/
- DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+DESCRIPTION:Saturday at 13:00. All residence halls close.\n\nAY2025-26 — 
+ source: https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU
+ -Acdemic-Calendar-2025-2026_250919_v2.pdf
 URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
  mic-Calendar-2025-2026_250919_v2.pdf
 LOCATION:Duke Kunshan University
@@ -965,8 +965,8 @@ DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
 SUMMARY:Summer session starts
 DESCRIPTION:Monday. Summer session starts (for class of 2029 mainland and H
- MT students only).\n\nAY2026-27 \u2014 source: https://registrar.dukekunsh
- an.edu.cn/academic-calendar/
+ MT students only).\n\nAY2026-27 — source: https://registrar.dukekunshan.
+ edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -980,8 +980,8 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
 SUMMARY:Summer session exams
-DESCRIPTION:Thursday. Summer session exams.\n\nAY2026-27 \u2014 source: htt
- ps://registrar.dukekunshan.edu.cn/academic-calendar/
+DESCRIPTION:Thursday. Summer session exams.\n\nAY2026-27 — source: https:
+ //registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -997,8 +997,8 @@ DTEND;TZID=Asia/Shanghai:20260814T090000
 SUMMARY:Move-in: new international UG + int'l 1st-year grad
 DESCRIPTION:Friday at 9:00 AM. All new international undergraduate students
   (Class of 2030) and international first-year graduate students move-in.\n
- \nAY2026-27 \u2014 source: https://registrar.dukekunshan.edu.cn/academic-c
- alendar/
+ \nAY2026-27 — source: https://registrar.dukekunshan.edu.cn/academic-cale
+ ndar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1014,7 +1014,7 @@ DTEND;TZID=Asia/Shanghai:20260816T090000
 SUMMARY:Move-in: new Chinese UG + Chinese 1st-year grad
 DESCRIPTION:Sunday at 9:00 AM. All new Chinese undergraduate students (Clas
  s of 2030) and Chinese first-year graduate students move-in.\n\nAY2026-27 
- \u2014 source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+ — source: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1029,8 +1029,8 @@ DTSTART;TZID=Asia/Shanghai:20260821T090000
 DTEND;TZID=Asia/Shanghai:20260821T090000
 SUMMARY:Move-in: returning UG + grad students
 DESCRIPTION:Friday at 9:00 AM. Returning undergraduate and graduate student
- s move-in.\n\nAY2026-27 \u2014 source: https://registrar.dukekunshan.edu.c
- n/academic-calendar/
+ s move-in.\n\nAY2026-27 — source: https://registrar.dukekunshan.edu.cn/a
+ cademic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1045,7 +1045,7 @@ DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
 SUMMARY:Fall 2026 classes begin (UG + grad)
 DESCRIPTION:Monday. Undergraduate and graduate classes begin.\n\nAY2026-27 
- \u2014 source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+ — source: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1060,8 +1060,8 @@ DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:Drop/add ends - 1st 7-week UG session
 DESCRIPTION:Thursday. Drop/add ends for first 7-week undergraduate session.
- \n\nAY2026-27 \u2014 source: https://registrar.dukekunshan.edu.cn/academic
- -calendar/
+ \n\nAY2026-27 — source: https://registrar.dukekunshan.edu.cn/academic-ca
+ lendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1076,8 +1076,8 @@ DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:Drop/add ends - 14-week UG session
 DESCRIPTION:Thursday. Drop/add ends for 14-week undergraduate session.\n\nA
- Y2026-27 \u2014 source: https://registrar.dukekunshan.edu.cn/academic-cale
- ndar/
+ Y2026-27 — source: https://registrar.dukekunshan.edu.cn/academic-calenda
+ r/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1091,8 +1091,8 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Drop/add ends - graduate classes
-DESCRIPTION:Friday. Drop/add ends for graduate classes.\n\nAY2026-27 \u2014
-  source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+DESCRIPTION:Friday. Drop/add ends for graduate classes.\n\nAY2026-27 — so
+ urce: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1107,8 +1107,8 @@ DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Thursday class schedule in effect
 DESCRIPTION:Friday. Classes continue. The Thursday class meeting schedule i
- s in effect on this day.\n\nAY2026-27 \u2014 source: https://registrar.duk
- ekunshan.edu.cn/academic-calendar/
+ s in effect on this day.\n\nAY2026-27 — source: https://registrar.dukeku
+ nshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1125,8 +1125,7 @@ SUMMARY:Deadlines - 1st 7-week W / grading basis / I grades
 DESCRIPTION:Thursday. Last day to withdraw with a W grade of first 7-week c
  lasses\; Last day to change grading basis of first 7-week classes\; Last d
  ay to resolve I grade of second seven-week classes in spring 2026.\n\nAY20
- 26-27 \u2014 source: https://registrar.dukekunshan.edu.cn/academic-calenda
- r/
+ 26-27 — source: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1141,7 +1140,7 @@ DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260928
 SUMMARY:Mid-Autumn Festival - No classes
 DESCRIPTION:Friday - Sunday. Mid-Autumn Festival - No classes.\n\nAY2026-27
-  \u2014 source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+  — source: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1156,7 +1155,7 @@ DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261012
 SUMMARY:National Day Holiday - No classes
 DESCRIPTION:Thursday - Sunday. National Day Holiday - No classes.\n\nAY2026
- -27 \u2014 source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+ -27 — source: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1170,8 +1169,8 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:All classes resume
-DESCRIPTION:Monday. All classes resume.\n\nAY2026-27 \u2014 source: https:/
- /registrar.dukekunshan.edu.cn/academic-calendar/
+DESCRIPTION:Monday. All classes resume.\n\nAY2026-27 — source: https://re
+ gistrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1186,7 +1185,7 @@ DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:1st 7-week UG session ends
 DESCRIPTION:Thursday. First 7-week undergraduate session end.\n\nAY2026-27 
- \u2014 source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+ — source: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1200,8 +1199,8 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261019
 SUMMARY:UG reading period
-DESCRIPTION:Friday-Sunday. Undergraduate reading period.\n\nAY2026-27 \u201
- 4 source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+DESCRIPTION:Friday-Sunday. Undergraduate reading period.\n\nAY2026-27 — s
+ ource: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1216,8 +1215,8 @@ DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261023
 SUMMARY:1st 7-week UG final examinations
 DESCRIPTION:Monday-Thursday. First 7-week undergraduate session final exami
- nations. Graduate classes continue.\n\nAY2026-27 \u2014 source: https://re
- gistrar.dukekunshan.edu.cn/academic-calendar/
+ nations. Graduate classes continue.\n\nAY2026-27 — source: https://regis
+ trar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1232,7 +1231,7 @@ DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:2nd 7-week UG session begins
 DESCRIPTION:Monday. Second 7-week undergraduate session begins.\n\nAY2026-2
- 7 \u2014 source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+ 7 — source: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1247,8 +1246,8 @@ DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Drop/add ends - 2nd 7-week UG session
 DESCRIPTION:Thursday. Drop/add ends for second 7-week undergraduate session
- .\n\nAY2026-27 \u2014 source: https://registrar.dukekunshan.edu.cn/academi
- c-calendar/
+ .\n\nAY2026-27 — source: https://registrar.dukekunshan.edu.cn/academic-c
+ alendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1263,8 +1262,8 @@ DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Deadlines - 14-week W / grading basis
 DESCRIPTION:Thursday. Last day to withdraw with a W grade of 14-week classe
- s. Last day to change grading basis of 14-week classes.\n\nAY2026-27 \u201
- 4 source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+ s. Last day to change grading basis of 14-week classes.\n\nAY2026-27 — s
+ ource: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1281,8 +1280,8 @@ SUMMARY:Graduate classes end\; 2nd 7-week W / grading / I deadlines
 DESCRIPTION:Thursday. Graduate classes end (ECE classes continue)\; Last da
  y to withdraw with a W grade of second 7-week classes\; Last day to change
   grading basis of second 7-week classes\; Last day to resolve I grade of f
- irst 7-week classes.\n\nAY2026-27 \u2014 source: https://registrar.dukekun
- shan.edu.cn/academic-calendar/
+ irst 7-week classes.\n\nAY2026-27 — source: https://registrar.dukekunsha
+ n.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1297,8 +1296,8 @@ DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261202
 SUMMARY:Graduate reading days
 DESCRIPTION:Friday-Tuesday. Graduate reading days\; ECE classes continue.\n
- \nAY2026-27 \u2014 source: https://registrar.dukekunshan.edu.cn/academic-c
- alendar/
+ \nAY2026-27 — source: https://registrar.dukekunshan.edu.cn/academic-cale
+ ndar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1312,8 +1311,8 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261205
 SUMMARY:Graduate exams
-DESCRIPTION:Wednesday-Friday. Graduate exams.\n\nAY2026-27 \u2014 source: h
- ttps://registrar.dukekunshan.edu.cn/academic-calendar/
+DESCRIPTION:Wednesday-Friday. Graduate exams.\n\nAY2026-27 — source: http
+ s://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1327,8 +1326,8 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:ECE classes end
-DESCRIPTION:Thursday. ECE classes end.\n\nAY2026-27 \u2014 source: https://
- registrar.dukekunshan.edu.cn/academic-calendar/
+DESCRIPTION:Thursday. ECE classes end.\n\nAY2026-27 — source: https://reg
+ istrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1342,8 +1341,8 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261209
 SUMMARY:ECE program reading days
-DESCRIPTION:Friday-Tuesday. ECE program reading days.\n\nAY2026-27 \u2014 s
- ource: https://registrar.dukekunshan.edu.cn/academic-calendar/
+DESCRIPTION:Friday-Tuesday. ECE program reading days.\n\nAY2026-27 — sour
+ ce: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1357,8 +1356,8 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261212
 SUMMARY:ECE program exam period
-DESCRIPTION:Wednesday-Friday. ECE program exam period.\n\nAY2026-27 \u2014 
- source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+DESCRIPTION:Wednesday-Friday. ECE program exam period.\n\nAY2026-27 — sou
+ rce: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1373,7 +1372,7 @@ DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:2nd 7-week UG session ends
 DESCRIPTION:Thursday. Second 7-week undergraduate session ends.\n\nAY2026-2
- 7 \u2014 source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+ 7 — source: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1387,8 +1386,8 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261214
 SUMMARY:UG reading period
-DESCRIPTION:Friday-Sunday. Undergraduate reading period.\n\nAY2026-27 \u201
- 4 source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+DESCRIPTION:Friday-Sunday. Undergraduate reading period.\n\nAY2026-27 — s
+ ource: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1403,7 +1402,7 @@ DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261218
 SUMMARY:UG final examinations
 DESCRIPTION:Monday-Thursday. Undergraduate final examinations.\n\nAY2026-27
-  \u2014 source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+  — source: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1418,8 +1417,8 @@ DTSTART;TZID=Asia/Shanghai:20261218T130000
 DTEND;TZID=Asia/Shanghai:20261218T130000
 SUMMARY:Residence halls close for Winter Break
 DESCRIPTION:Friday at 13:00. All residence halls close for Winter Break.\n\
- nAY2026-27 \u2014 source: https://registrar.dukekunshan.edu.cn/academic-ca
- lendar/
+ nAY2026-27 — source: https://registrar.dukekunshan.edu.cn/academic-calen
+ dar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1435,8 +1434,8 @@ DTEND;VALUE=DATE:20261225
 SUMMARY:(Tentative) Extended requirement - Class of 2030
 DESCRIPTION:Friday-Thursday (tentative). Extended requirement for Class of 
  2030 starts (required for mainland Chinese students and optional for HMT s
- tudents).\n\nAY2026-27 \u2014 source: https://registrar.dukekunshan.edu.cn
- /academic-calendar/
+ tudents).\n\nAY2026-27 — source: https://registrar.dukekunshan.edu.cn/ac
+ ademic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1450,8 +1449,8 @@ SEQUENCE:0
 DTSTART;TZID=Asia/Shanghai:20270109T090000
 DTEND;TZID=Asia/Shanghai:20270109T090000
 SUMMARY:Residence halls reopen
-DESCRIPTION:Saturday at 9:00 AM. All residence halls reopen.\n\nAY2026-27 \
- u2014 source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+DESCRIPTION:Saturday at 9:00 AM. All residence halls reopen.\n\nAY2026-27 
+ — source: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1466,7 +1465,7 @@ DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:Spring 2027 classes begin (UG + grad)
 DESCRIPTION:Monday. Undergraduate and graduate classes begin.\n\nAY2026-27 
- \u2014 source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+ — source: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1481,8 +1480,8 @@ DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 SUMMARY:Drop/add ends - 1st 7-week UG session
 DESCRIPTION:Thursday. Drop/add ends for first 7-week undergraduate session.
- \n\nAY2026-27 \u2014 source: https://registrar.dukekunshan.edu.cn/academic
- -calendar/
+ \n\nAY2026-27 — source: https://registrar.dukekunshan.edu.cn/academic-ca
+ lendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1497,8 +1496,8 @@ DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:Drop/add ends - 14-week UG session
 DESCRIPTION:Thursday. Drop/add ends for 14-week undergraduate session.\n\nA
- Y2026-27 \u2014 source: https://registrar.dukekunshan.edu.cn/academic-cale
- ndar/
+ Y2026-27 — source: https://registrar.dukekunshan.edu.cn/academic-calenda
+ r/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1512,8 +1511,8 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:Drop/add ends - graduate classes
-DESCRIPTION:Friday. Drop/add ends for graduate classes.\n\nAY2026-27 \u2014
-  source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+DESCRIPTION:Friday. Drop/add ends for graduate classes.\n\nAY2026-27 — so
+ urce: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1528,8 +1527,8 @@ DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270215
 SUMMARY:Spring Festival (Chinese New Year) - No classes
 DESCRIPTION:Friday-Sunday. Spring Festival Holiday - Chinese New Year - No 
- classes.\n\nAY2026-27 \u2014 source: https://registrar.dukekunshan.edu.cn/
- academic-calendar/
+ classes.\n\nAY2026-27 — source: https://registrar.dukekunshan.edu.cn/aca
+ demic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1543,8 +1542,8 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
 SUMMARY:All classes resume
-DESCRIPTION:Monday. All classes resume.\n\nAY2026-27 \u2014 source: https:/
- /registrar.dukekunshan.edu.cn/academic-calendar/
+DESCRIPTION:Monday. All classes resume.\n\nAY2026-27 — source: https://re
+ gistrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1560,8 +1559,8 @@ DTEND;VALUE=DATE:20270219
 SUMMARY:Deadlines - 1st 7-week W / grading basis / I grades
 DESCRIPTION:Thursday. Last day to withdraw with a W grade of first 7-week c
  lasses\; Last day to change grading basis of first 7-week classes\; Last d
- ay to resolve I grade of fall 2026 second 7-week classes.\n\nAY2026-27 \u2
- 014 source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+ ay to resolve I grade of fall 2026 second 7-week classes.\n\nAY2026-27 —
+  source: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1576,7 +1575,7 @@ DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:1st 7-week UG session ends
 DESCRIPTION:Thursday. First 7-week undergraduate session ends.\n\nAY2026-27
-  \u2014 source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+  — source: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1590,8 +1589,8 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270308
 SUMMARY:UG reading days
-DESCRIPTION:Friday-Sunday. Undergraduate Reading Days.\n\nAY2026-27 \u2014 
- source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+DESCRIPTION:Friday-Sunday. Undergraduate Reading Days.\n\nAY2026-27 — sou
+ rce: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1606,8 +1605,8 @@ DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270312
 SUMMARY:1st 7-week UG final examinations
 DESCRIPTION:Monday-Thursday. First 7-week undergraduate session final exami
- nations. Graduate classes continue.\n\nAY2026-27 \u2014 source: https://re
- gistrar.dukekunshan.edu.cn/academic-calendar/
+ nations. Graduate classes continue.\n\nAY2026-27 — source: https://regis
+ trar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1622,8 +1621,8 @@ DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270320
 SUMMARY:Mini-term week (UG) / Spring recess (grad)
 DESCRIPTION:Monday-Friday. Mini-term week for undergraduate students\; Spri
- ng recess for graduate programs.\n\nAY2026-27 \u2014 source: https://regis
- trar.dukekunshan.edu.cn/academic-calendar/
+ ng recess for graduate programs.\n\nAY2026-27 — source: https://registra
+ r.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1638,7 +1637,7 @@ DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
 SUMMARY:2nd 7-week UG session begins
 DESCRIPTION:Monday. Second 7-week undergraduate session begins.\n\nAY2026-2
- 7 \u2014 source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+ 7 — source: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1653,8 +1652,8 @@ DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:Drop/add ends - 2nd 7-week UG session
 DESCRIPTION:Thursday. Drop/add ends for second 7-week undergraduate session
- .\n\nAY2026-27 \u2014 source: https://registrar.dukekunshan.edu.cn/academi
- c-calendar/
+ .\n\nAY2026-27 — source: https://registrar.dukekunshan.edu.cn/academic-c
+ alendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1669,7 +1668,7 @@ DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270406
 SUMMARY:Qing Ming (Tomb Sweeping Day) - No classes
 DESCRIPTION:Monday. Qing Ming - Tomb Sweeping Day - No classes.\n\nAY2026-2
- 7 \u2014 source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+ 7 — source: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1684,8 +1683,8 @@ DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:Monday class schedule in effect
 DESCRIPTION:Tuesday. The Monday class schedule is in effect on this day.\n\
- nAY2026-27 \u2014 source: https://registrar.dukekunshan.edu.cn/academic-ca
- lendar/
+ nAY2026-27 — source: https://registrar.dukekunshan.edu.cn/academic-calen
+ dar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1700,8 +1699,8 @@ DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:Tuesday class schedule in effect
 DESCRIPTION:Wednesday. The Tuesday class schedule is in effect on this day.
- \n\nAY2026-27 \u2014 source: https://registrar.dukekunshan.edu.cn/academic
- -calendar/
+ \n\nAY2026-27 — source: https://registrar.dukekunshan.edu.cn/academic-ca
+ lendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1716,8 +1715,8 @@ DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
 SUMMARY:Wednesday class schedule in effect
 DESCRIPTION:Thursday. The Wednesday class schedule is in effect on this day
- .\n\nAY2026-27 \u2014 source: https://registrar.dukekunshan.edu.cn/academi
- c-calendar/
+ .\n\nAY2026-27 — source: https://registrar.dukekunshan.edu.cn/academic-c
+ alendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1733,8 +1732,8 @@ DTEND;VALUE=DATE:20270410
 SUMMARY:Thursday class schedule in effect\; 14-week W / grading deadline
 DESCRIPTION:Friday. The Thursday class schedule is in effect on this day. L
  ast day to withdraw with a W grade of 14-week classes. Last day to change 
- grading basis of 14-week classes.\n\nAY2026-27 \u2014 source: https://regi
- strar.dukekunshan.edu.cn/academic-calendar/
+ grading basis of 14-week classes.\n\nAY2026-27 — source: https://registr
+ ar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1751,8 +1750,8 @@ SUMMARY:Graduate classes end\; 2nd 7-week W / grading / I deadlines
 DESCRIPTION:Thursday. Graduate classes end (ECE classes continue)\; Last da
  y to withdraw with a W grade of second 7-week classes\; Last day to change
   grading basis for second 7-week classes\; Last day for I grade change of 
- spring 2027 first 7-week classes.\n\nAY2026-27 \u2014 source: https://regi
- strar.dukekunshan.edu.cn/academic-calendar/
+ spring 2027 first 7-week classes.\n\nAY2026-27 — source: https://registr
+ ar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1766,8 +1765,8 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270428
 SUMMARY:Graduate reading days
-DESCRIPTION:Friday-Tuesday. Graduate Reading Days.\n\nAY2026-27 \u2014 sour
- ce: https://registrar.dukekunshan.edu.cn/academic-calendar/
+DESCRIPTION:Friday-Tuesday. Graduate Reading Days.\n\nAY2026-27 — source:
+  https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1782,8 +1781,7 @@ DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270501
 SUMMARY:Graduate exams
 DESCRIPTION:Wednesday-Friday. Graduate exams\; ECE classes continue.\n\nAY2
- 026-27 \u2014 source: https://registrar.dukekunshan.edu.cn/academic-calend
- ar/
+ 026-27 — source: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1797,8 +1795,8 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20270429
 DTEND;VALUE=DATE:20270430
 SUMMARY:ECE classes end
-DESCRIPTION:Thursday. ECE Classes end.\n\nAY2026-27 \u2014 source: https://
- registrar.dukekunshan.edu.cn/academic-calendar/
+DESCRIPTION:Thursday. ECE Classes end.\n\nAY2026-27 — source: https://reg
+ istrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1812,8 +1810,8 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270505
 SUMMARY:ECE program reading days
-DESCRIPTION:Friday-Tuesday. ECE program reading days.\n\nAY2026-27 \u2014 s
- ource: https://registrar.dukekunshan.edu.cn/academic-calendar/
+DESCRIPTION:Friday-Tuesday. ECE program reading days.\n\nAY2026-27 — sour
+ ce: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1828,8 +1826,8 @@ DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270504
 SUMMARY:International Labor Day Holiday - No classes
 DESCRIPTION:Saturday-Monday. International Labor Day Holiday - No classes.\
- n\nAY2026-27 \u2014 source: https://registrar.dukekunshan.edu.cn/academic-
- calendar/
+ n\nAY2026-27 — source: https://registrar.dukekunshan.edu.cn/academic-cal
+ endar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1844,8 +1842,8 @@ DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
 SUMMARY:Monday class schedule in effect
 DESCRIPTION:Tuesday. The Monday class schedule is in effect on this day.\n\
- nAY2026-27 \u2014 source: https://registrar.dukekunshan.edu.cn/academic-ca
- lendar/
+ nAY2026-27 — source: https://registrar.dukekunshan.edu.cn/academic-calen
+ dar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1860,8 +1858,8 @@ DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
 SUMMARY:Tuesday class schedule in effect
 DESCRIPTION:Wednesday. The Tuesday class schedule is in effect on this day.
- \n\nAY2026-27 \u2014 source: https://registrar.dukekunshan.edu.cn/academic
- -calendar/
+ \n\nAY2026-27 — source: https://registrar.dukekunshan.edu.cn/academic-ca
+ lendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1875,8 +1873,8 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270508
 SUMMARY:ECE program exam period
-DESCRIPTION:Wednesday-Friday. ECE program exam period.\n\nAY2026-27 \u2014 
- source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+DESCRIPTION:Wednesday-Friday. ECE program exam period.\n\nAY2026-27 — sou
+ rce: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1891,8 +1889,8 @@ DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
 SUMMARY:Wednesday class schedule in effect
 DESCRIPTION:Thursday. The Wednesday class schedule is in effect on this day
- .\n\nAY2026-27 \u2014 source: https://registrar.dukekunshan.edu.cn/academi
- c-calendar/
+ .\n\nAY2026-27 — source: https://registrar.dukekunshan.edu.cn/academic-c
+ alendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1907,8 +1905,8 @@ DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
 SUMMARY:Thursday class schedule in effect\; 2nd 7-week UG session ends
 DESCRIPTION:Friday. The Thursday class schedule is in effect on this day. S
- econd 7-week undergraduate session ends.\n\nAY2026-27 \u2014 source: https
- ://registrar.dukekunshan.edu.cn/academic-calendar/
+ econd 7-week undergraduate session ends.\n\nAY2026-27 — source: https://
+ registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1922,8 +1920,8 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270510
 SUMMARY:UG reading days
-DESCRIPTION:Saturday-Sunday. Undergraduate Reading Days.\n\nAY2026-27 \u201
- 4 source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+DESCRIPTION:Saturday-Sunday. Undergraduate Reading Days.\n\nAY2026-27 — s
+ ource: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1938,7 +1936,7 @@ DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270514
 SUMMARY:UG final exam period
 DESCRIPTION:Monday-Thursday. Undergraduate final exam period.\n\nAY2026-27 
- \u2014 source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+ — source: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1954,8 +1952,8 @@ DTEND;VALUE=DATE:20270521
 SUMMARY:(Tentative) Extended Training (theory) - Class of 2030
 DESCRIPTION:Monday-Thursday (tentative). Extended Training (theory) for Cla
  ss of 2030 (required for mainland Chinese students and optional for HMT st
- udents).\n\nAY2026-27 \u2014 source: https://registrar.dukekunshan.edu.cn/
- academic-calendar/
+ udents).\n\nAY2026-27 — source: https://registrar.dukekunshan.edu.cn/aca
+ demic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1969,8 +1967,8 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20270521
 DTEND;VALUE=DATE:20270522
 SUMMARY:Commencement (Graduate + Undergraduate)
-DESCRIPTION:Friday. Graduate and Undergraduate Commencement.\n\nAY2026-27 \
- u2014 source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+DESCRIPTION:Friday. Graduate and Undergraduate Commencement.\n\nAY2026-27 
+ — source: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
@@ -1984,11 +1982,109 @@ SEQUENCE:0
 DTSTART;TZID=Asia/Shanghai:20270522T130000
 DTEND;TZID=Asia/Shanghai:20270522T130000
 SUMMARY:All residence halls close
-DESCRIPTION:Saturday at 13:00. All residence halls close.\n\nAY2026-27 \u20
- 14 source: https://registrar.dukekunshan.edu.cn/academic-calendar/
+DESCRIPTION:Saturday at 13:00. All residence halls close.\n\nAY2026-27 — 
+ source: https://registrar.dukekunshan.edu.cn/academic-calendar/
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8f4913e977c655a069aa@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Sports Complex (SPC) on regular weekend schedule
+DESCRIPTION:Sunday. The DKU Sport Complex will operate according to the reg
+ ular weekend schedule. Operating hours during weekend and holidays can als
+ o be found on the Athletics website.\n\nAY2026-27 — source: Student Expe
+ rience on behalf of Athletics (campus email notice)
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU Athletics
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:294cb9ab79e636b66047@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260928
+SUMMARY:Sports Complex (SPC) closed - outdoor facilities open
+DESCRIPTION:September 25-27 (Mid-Autumn Festival): The DKU Sport Complex (S
+ PC) will be CLOSED. Outdoor sports facilities will remain open during this
+  period.\n\nAY2026-27 — source: Student Experience on behalf of Athletic
+ s (campus email notice)
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU Athletics
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:16966189b7e308548464@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261008
+SUMMARY:Sports Complex (SPC) closed - outdoor facilities open
+DESCRIPTION:October 1-7 (National Day Holiday): The DKU Sport Complex (SPC)
+  will be CLOSED. Outdoor sports facilities will remain open during this pe
+ riod.\n\nAY2026-27 — source: Student Experience on behalf of Athletics (
+ campus email notice)
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU Athletics
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7e378fa915a0d1581402@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261004
+SUMMARY:No outdoor light on-call service\; Campus Service Hotline closed
+DESCRIPTION:No on-call outdoor facility light service on October 1\, 2\, 3.
+  If you need light service on these dates\, make a reservation in advance 
+ during the hotline staff's working hours. Campus Service Hotline: 0512-366
+ 5 7111 (no service Oct 1-3\; Oct 4-7 9:00-18:00\; regular days 8:00-20:00)
+ . Call at least 30 minutes before hotline closing time.\n\nAY2026-27 — s
+ ource: Student Experience on behalf of Athletics (campus email notice)
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU Athletics
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f96b1a6abe2219e650df@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261008
+SUMMARY:Campus Service Hotline holiday hours 9:00-18:00
+DESCRIPTION:Holiday service days (Oct 4\, 5\, 6\, 7): 9:00-18:00. Campus Se
+ rvice Hotline 0512-3665 7111\, also used for outdoor facility light servic
+ e. Call at least 30 minutes before hotline closing time.\n\nAY2026-27 — 
+ source: Student Experience on behalf of Athletics (campus email notice)
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU Athletics
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:751e0c71eb0ece488ec6@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Sports Complex (SPC) on regular weekend schedule
+DESCRIPTION:Saturday. The DKU Sport Complex will operate according to the r
+ egular weekend schedule. Operating hours during weekend and holidays can a
+ lso be found on the Athletics website.\n\nAY2026-27 — source: Student Ex
+ perience on behalf of Athletics (campus email notice)
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU Athletics
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT

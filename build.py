@@ -64,12 +64,13 @@ def fold(line):
     if len(raw) <= 75:
         return line
     out, chunk, limit = [], b"", 75
-    for byte in raw:
-        if len(chunk) + 1 > limit and (byte & 0xC0) != 0x80:
+    for ch in line:                        # whole characters, never split
+        b = ch.encode("utf-8")
+        if len(chunk) + len(b) > limit:
             out.append(chunk)
-            chunk, limit = bytes([byte]), 74   # continuation lines lose 1 to the leading space
+            chunk, limit = b, 74           # continuation lines lose 1 to the leading space
         else:
-            chunk += bytes([byte])
+            chunk += b
     out.append(chunk)
     return "\r\n ".join(c.decode("utf-8") for c in out)
 
@@ -119,6 +120,11 @@ def build():
     total = 0
     seen_uids = set()
     for year in years:
+        # Optional per-module overrides for non-registrar sources (e.g. an
+        # emailed notice): CATEGORY, and SOURCE text in place of SOURCE_URL.
+        source_url = year.SOURCE_URL
+        source = getattr(year, "SOURCE", source_url)
+        category = getattr(year, "CATEGORY", f"DKU AY{year.AY}")
         for start, end, summary, description in year.EVENTS:
             u = uid(year.AY, start, summary)
             if u in seen_uids:
@@ -146,11 +152,12 @@ def build():
                 lines.append(f"DTEND;VALUE=DATE:{last + timedelta(days=1):%Y%m%d}")
             lines.append(fold(f"SUMMARY:{esc(summary)}"))
             lines.append(fold(
-                f"DESCRIPTION:{esc(description)}\\n\\nAY{year.AY} \\u2014 "
-                f"source: {year.SOURCE_URL}"))
-            lines.append(fold(f"URL:{year.SOURCE_URL}"))
+                f"DESCRIPTION:{esc(description)}\\n\\nAY{year.AY} \u2014 "
+                f"source: {esc(source)}"))
+            if source_url:
+                lines.append(fold(f"URL:{source_url}"))
             lines.append("LOCATION:Duke Kunshan University")
-            lines.append(fold(f"CATEGORIES:{esc(f'DKU AY{year.AY}')}"))
+            lines.append(fold(f"CATEGORIES:{esc(category)}"))
             lines.append("TRANSP:TRANSPARENT")
             lines.append("STATUS:CONFIRMED")
             lines.append("END:VEVENT")
@@ -160,7 +167,8 @@ def build():
 
     OUTFILE.write_text("\r\n".join(lines) + "\r\n", encoding="utf-8", newline="")
 
-    label = ", ".join(f"AY{y.AY} ({len(y.EVENTS)})" for y in years)
+    label = ", ".join(f"{getattr(y, 'CATEGORY', f'AY{y.AY}')} ({len(y.EVENTS)})"
+                      for y in years)
     print(f"Wrote {OUTFILE.name}: {total} events across {len(years)} years")
     print(f"  {label}")
 
