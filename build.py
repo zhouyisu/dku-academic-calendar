@@ -20,7 +20,14 @@ Adding a year
                "YYYY-MM-DD HH:MM" -> timed, Asia/Shanghai
    end       : None for a single day, else the LAST day of the range
                (inclusive - the off-by-one iCalendar wants is handled here)
-4. python3 build.py && git commit -am "Add AY2027-28" && git push
+4. Update SESSIONS: one entry per 7-week undergraduate session, listing the
+   Monday of each of its seven teaching weeks plus the Monday of its finals
+   week. build.py turns these into "Week 1" ... "Week 7" / "Week 8 Final"
+   all-day banners (Mon-Sun). A week that a holiday splits or shifts can be
+   given as (start, end, note) instead of a bare Monday. The checks below
+   refuse a session that does not have exactly seven weeks ending before its
+   finals Monday, so a miscounted holiday fails loudly.
+5. python3 build.py && git commit -am "Add AY2027-28" && git push
 
 Editing an existing year: change the row, rerun, commit. Because event IDs are
 derived from the academic year + date + title, an edited *title or date* is
@@ -80,6 +87,66 @@ def uid(*parts):
     return f"{h}@{UID_DOMAIN}"
 
 
+WEEKS_PER_SESSION = 7
+WEEKS_CATEGORY = "DKU Weeks"
+DERIVED_NOTE = ("(Week numbers are derived from the registrar's session dates; "
+                "the registrar does not print them.)")
+
+
+def week_range(entry):
+    """A SESSIONS week is "YYYY-MM-DD" (a Monday; the week is Mon-Sun) or
+    (start, end[, note]) for a week a holiday splits or shifts."""
+    if isinstance(entry, str):
+        first = date.fromisoformat(entry)
+        return first, first + timedelta(days=6), None
+    start, end, *rest = entry
+    return date.fromisoformat(start), date.fromisoformat(end), (rest or [None])[0]
+
+
+def expand_sessions(year):
+    """Turn a year's SESSIONS table into (start, end, summary, description)
+    rows, one per teaching week plus one for the finals week."""
+    rows = []
+    for session in getattr(year, "SESSIONS", []):
+        name, weeks, finals = session["name"], session["weeks"], session["finals"]
+        if len(weeks) != WEEKS_PER_SESSION:
+            raise SystemExit(f"{name}: expected {WEEKS_PER_SESSION} weeks, "
+                             f"got {len(weeks)}")
+        finals_first = date.fromisoformat(finals)
+        if finals_first.weekday() != 0:
+            raise SystemExit(f"{name}: finals week must start on a Monday "
+                             f"({finals})")
+        prev_end = None
+        for n, entry in enumerate(weeks, 1):
+            first, last, note = week_range(entry)
+            if first.weekday() != 0:
+                raise SystemExit(f"{name} week {n}: {first} is not a Monday")
+            if prev_end and first <= prev_end:
+                raise SystemExit(f"{name} week {n}: overlaps week {n - 1}")
+            if last >= finals_first:
+                raise SystemExit(f"{name} week {n}: runs into finals week")
+            prev_end = last
+            text = (f"Week {n} of {WEEKS_PER_SESSION}, {name}. "
+                    f"{first:%a %-d %b} - {last:%a %-d %b %Y}.")
+            if note:
+                text += " " + note
+            text += " " + DERIVED_NOTE
+            rows.append((first.isoformat(), last.isoformat(),
+                         f"Week {n} ({name})", text))
+        finals_last = finals_first + timedelta(days=6)
+        rows.append((finals, finals_last.isoformat(),
+                     f"Week {WEEKS_PER_SESSION + 1} Final ({name})",
+                     f"Final examinations week, {name}. "
+                     f"{finals_first:%a %-d %b} - {finals_last:%a %-d %b %Y}. "
+                     "See the registrar's reading-period and final-examination "
+                     "events for the exact days. " + DERIVED_NOTE))
+    return rows
+
+
+def categories_line(*cats):
+    return fold("CATEGORIES:" + ",".join(esc(c) for c in cats))
+
+
 def load_years():
     """Import every years/ay*.py, oldest first."""
     years = []
@@ -125,7 +192,10 @@ def build():
         source_url = year.SOURCE_URL
         source = getattr(year, "SOURCE", source_url)
         category = getattr(year, "CATEGORY", f"DKU AY{year.AY}")
-        for start, end, summary, description in year.EVENTS:
+        rows = ([(*row, (category,)) for row in year.EVENTS] +
+                [(*row, (category, WEEKS_CATEGORY))
+                 for row in expand_sessions(year)])
+        for start, end, summary, description, cats in rows:
             u = uid(year.AY, start, summary)
             if u in seen_uids:
                 raise SystemExit(
@@ -157,7 +227,7 @@ def build():
             if source_url:
                 lines.append(fold(f"URL:{source_url}"))
             lines.append("LOCATION:Duke Kunshan University")
-            lines.append(fold(f"CATEGORIES:{esc(category)}"))
+            lines.append(categories_line(*cats))
             lines.append("TRANSP:TRANSPARENT")
             lines.append("STATUS:CONFIRMED")
             lines.append("END:VEVENT")
@@ -165,16 +235,24 @@ def build():
 
     lines.append("END:VCALENDAR")
 
-    OUTFILE.write_text("\r\n".join(lines) + "\r\n", encoding="utf-8", newline="")
+    # open() rather than write_text(newline=...), so the stock macOS
+    # python3 (3.9) can run this too.
+    with OUTFILE.open("w", encoding="utf-8", newline="") as f:
+        f.write("\r\n".join(lines) + "\r\n")
 
-    label = ", ".join(f"{getattr(y, 'CATEGORY', f'AY{y.AY}')} ({len(y.EVENTS)})"
+    def count(y):
+        n_weeks = len(expand_sessions(y))
+        return (f"{len(y.EVENTS)}" if not n_weeks
+                else f"{len(y.EVENTS)} + {n_weeks} week banners")
+    label = ", ".join(f"{getattr(y, 'CATEGORY', f'AY{y.AY}')} ({count(y)})"
                       for y in years)
     print(f"Wrote {OUTFILE.name}: {total} events across {len(years)} years")
     print(f"  {label}")
 
     # Cheap self-checks, so a bad commit fails loudly rather than quietly
     # breaking everyone's subscription.
-    raw = OUTFILE.read_text(encoding="utf-8", newline="")
+    with OUTFILE.open(encoding="utf-8", newline="") as f:
+        raw = f.read()
     over = [l for l in raw.split("\r\n") if len(l.encode()) > 75]
     assert not over, f"{len(over)} line(s) exceed 75 octets"
     assert raw.count("BEGIN:VEVENT") == raw.count("END:VEVENT") == total

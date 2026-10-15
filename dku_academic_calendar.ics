@@ -958,6 +958,623 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:9b423d24bc091be227b5@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250825
+SUMMARY:Week 1 (Fall 2025 Session 1)
+DESCRIPTION:Week 1 of 7\, Fall 2025 Session 1. Mon 18 Aug - Sun 24 Aug 2025
+ . (Week numbers are derived from the registrar's session dates\; the regis
+ trar does not print them.)\n\nAY2025-26 — source: https://newstatic.duke
+ kunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_25
+ 0919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fa05be7b1656ab73163f@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250901
+SUMMARY:Week 2 (Fall 2025 Session 1)
+DESCRIPTION:Week 2 of 7\, Fall 2025 Session 1. Mon 25 Aug - Sun 31 Aug 2025
+ . (Week numbers are derived from the registrar's session dates\; the regis
+ trar does not print them.)\n\nAY2025-26 — source: https://newstatic.duke
+ kunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_25
+ 0919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c268bc704236a42fcae9@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250908
+SUMMARY:Week 3 (Fall 2025 Session 1)
+DESCRIPTION:Week 3 of 7\, Fall 2025 Session 1. Mon 1 Sep - Sun 7 Sep 2025. 
+ (Week numbers are derived from the registrar's session dates\; the registr
+ ar does not print them.)\n\nAY2025-26 — source: https://newstatic.dukeku
+ nshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_2509
+ 19_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bc8ae35cd409443836d0@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250908
+DTEND;VALUE=DATE:20250915
+SUMMARY:Week 4 (Fall 2025 Session 1)
+DESCRIPTION:Week 4 of 7\, Fall 2025 Session 1. Mon 8 Sep - Sun 14 Sep 2025.
+  (Week numbers are derived from the registrar's session dates\; the regist
+ rar does not print them.)\n\nAY2025-26 — source: https://newstatic.dukek
+ unshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_250
+ 919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:748669661994605af0ba@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250922
+SUMMARY:Week 5 (Fall 2025 Session 1)
+DESCRIPTION:Week 5 of 7\, Fall 2025 Session 1. Mon 15 Sep - Sun 21 Sep 2025
+ . (Week numbers are derived from the registrar's session dates\; the regis
+ trar does not print them.)\n\nAY2025-26 — source: https://newstatic.duke
+ kunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_25
+ 0919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e807d637e0b124103a2b@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20250929
+SUMMARY:Week 6 (Fall 2025 Session 1)
+DESCRIPTION:Week 6 of 7\, Fall 2025 Session 1. Mon 22 Sep - Sun 28 Sep 2025
+ . (Week numbers are derived from the registrar's session dates\; the regis
+ trar does not print them.)\n\nAY2025-26 — source: https://newstatic.duke
+ kunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_25
+ 0919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4d6c669eeafd0be07950@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250929
+DTEND;VALUE=DATE:20251013
+SUMMARY:Week 7 (Fall 2025 Session 1)
+DESCRIPTION:Week 7 of 7\, Fall 2025 Session 1. Mon 29 Sep - Sun 12 Oct 2025
+ . Split by the National Day / Mid-Autumn holiday (1-8 Oct): Mon/Tue classe
+ s on 29-30 Sep\, then the Wednesday schedule on Thu 9 Oct and the Thursday
+  schedule on Fri 10 Oct\, when the session ends. (Week numbers are derived
+  from the registrar's session dates\; the registrar does not print them.)\
+ n\nAY2025-26 — source: https://newstatic.dukekunshan.edu.cn/mainsite/202
+ 5/11/21102804/DKU-Acdemic-Calendar-2025-2026_250919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c272718bef79ad7a4f1e@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251020
+SUMMARY:Week 8 Final (Fall 2025 Session 1)
+DESCRIPTION:Final examinations week\, Fall 2025 Session 1. Mon 13 Oct - Sun
+  19 Oct 2025. See the registrar's reading-period and final-examination eve
+ nts for the exact days. (Week numbers are derived from the registrar's ses
+ sion dates\; the registrar does not print them.)\n\nAY2025-26 — source: 
+ https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic
+ -Calendar-2025-2026_250919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b5433f0120682836ddca@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251020
+DTEND;VALUE=DATE:20251027
+SUMMARY:Week 1 (Fall 2025 Session 2)
+DESCRIPTION:Week 1 of 7\, Fall 2025 Session 2. Mon 20 Oct - Sun 26 Oct 2025
+ . (Week numbers are derived from the registrar's session dates\; the regis
+ trar does not print them.)\n\nAY2025-26 — source: https://newstatic.duke
+ kunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_25
+ 0919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:462efd79238572d8cd94@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251103
+SUMMARY:Week 2 (Fall 2025 Session 2)
+DESCRIPTION:Week 2 of 7\, Fall 2025 Session 2. Mon 27 Oct - Sun 2 Nov 2025.
+  (Week numbers are derived from the registrar's session dates\; the regist
+ rar does not print them.)\n\nAY2025-26 — source: https://newstatic.dukek
+ unshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_250
+ 919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8a4ccbd01f0f62ce5689@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251103
+DTEND;VALUE=DATE:20251110
+SUMMARY:Week 3 (Fall 2025 Session 2)
+DESCRIPTION:Week 3 of 7\, Fall 2025 Session 2. Mon 3 Nov - Sun 9 Nov 2025. 
+ (Week numbers are derived from the registrar's session dates\; the registr
+ ar does not print them.)\n\nAY2025-26 — source: https://newstatic.dukeku
+ nshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_2509
+ 19_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:84a0bd2549c82216fe70@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251117
+SUMMARY:Week 4 (Fall 2025 Session 2)
+DESCRIPTION:Week 4 of 7\, Fall 2025 Session 2. Mon 10 Nov - Sun 16 Nov 2025
+ . (Week numbers are derived from the registrar's session dates\; the regis
+ trar does not print them.)\n\nAY2025-26 — source: https://newstatic.duke
+ kunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_25
+ 0919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4f9e2f6a4b5c1d4b4ce3@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251117
+DTEND;VALUE=DATE:20251124
+SUMMARY:Week 5 (Fall 2025 Session 2)
+DESCRIPTION:Week 5 of 7\, Fall 2025 Session 2. Mon 17 Nov - Sun 23 Nov 2025
+ . (Week numbers are derived from the registrar's session dates\; the regis
+ trar does not print them.)\n\nAY2025-26 — source: https://newstatic.duke
+ kunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_25
+ 0919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:50c41f728b35f27d0421@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251124
+DTEND;VALUE=DATE:20251201
+SUMMARY:Week 6 (Fall 2025 Session 2)
+DESCRIPTION:Week 6 of 7\, Fall 2025 Session 2. Mon 24 Nov - Sun 30 Nov 2025
+ . (Week numbers are derived from the registrar's session dates\; the regis
+ trar does not print them.)\n\nAY2025-26 — source: https://newstatic.duke
+ kunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_25
+ 0919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8895a576bc955274c397@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251208
+SUMMARY:Week 7 (Fall 2025 Session 2)
+DESCRIPTION:Week 7 of 7\, Fall 2025 Session 2. Mon 1 Dec - Sun 7 Dec 2025. 
+ (Week numbers are derived from the registrar's session dates\; the registr
+ ar does not print them.)\n\nAY2025-26 — source: https://newstatic.dukeku
+ nshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_2509
+ 19_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:588dae6f31563343c559@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251208
+DTEND;VALUE=DATE:20251215
+SUMMARY:Week 8 Final (Fall 2025 Session 2)
+DESCRIPTION:Final examinations week\, Fall 2025 Session 2. Mon 8 Dec - Sun 
+ 14 Dec 2025. See the registrar's reading-period and final-examination even
+ ts for the exact days. (Week numbers are derived from the registrar's sess
+ ion dates\; the registrar does not print them.)\n\nAY2025-26 — source: h
+ ttps://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-
+ Calendar-2025-2026_250919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:be32599add8d6e682630@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260112
+SUMMARY:Week 1 (Spring 2026 Session 1)
+DESCRIPTION:Week 1 of 7\, Spring 2026 Session 1. Mon 5 Jan - Sun 11 Jan 202
+ 6. (Week numbers are derived from the registrar's session dates\; the regi
+ strar does not print them.)\n\nAY2025-26 — source: https://newstatic.duk
+ ekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_2
+ 50919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1cd20e7820e09a199519@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260119
+SUMMARY:Week 2 (Spring 2026 Session 1)
+DESCRIPTION:Week 2 of 7\, Spring 2026 Session 1. Mon 12 Jan - Sun 18 Jan 20
+ 26. (Week numbers are derived from the registrar's session dates\; the reg
+ istrar does not print them.)\n\nAY2025-26 — source: https://newstatic.du
+ kekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_
+ 250919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:09df7778e65022f066bf@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260126
+SUMMARY:Week 3 (Spring 2026 Session 1)
+DESCRIPTION:Week 3 of 7\, Spring 2026 Session 1. Mon 19 Jan - Sun 25 Jan 20
+ 26. (Week numbers are derived from the registrar's session dates\; the reg
+ istrar does not print them.)\n\nAY2025-26 — source: https://newstatic.du
+ kekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_
+ 250919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ae04da0248a9de8d01a3@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260202
+SUMMARY:Week 4 (Spring 2026 Session 1)
+DESCRIPTION:Week 4 of 7\, Spring 2026 Session 1. Mon 26 Jan - Sun 1 Feb 202
+ 6. (Week numbers are derived from the registrar's session dates\; the regi
+ strar does not print them.)\n\nAY2025-26 — source: https://newstatic.duk
+ ekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_2
+ 50919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:10dacc62da4319a58c94@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260209
+SUMMARY:Week 5 (Spring 2026 Session 1)
+DESCRIPTION:Week 5 of 7\, Spring 2026 Session 1. Mon 2 Feb - Sun 8 Feb 2026
+ . (Week numbers are derived from the registrar's session dates\; the regis
+ trar does not print them.)\n\nAY2025-26 — source: https://newstatic.duke
+ kunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_25
+ 0919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:398b3c2404427d15297f@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260216
+SUMMARY:Week 6 (Spring 2026 Session 1)
+DESCRIPTION:Week 6 of 7\, Spring 2026 Session 1. Mon 9 Feb - Sun 15 Feb 202
+ 6. Fri 13 Feb runs the Monday class schedule\, making up for Mon 23 Feb (S
+ pring Festival). (Week numbers are derived from the registrar's session da
+ tes\; the registrar does not print them.)\n\nAY2025-26 — source: https:/
+ /newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calend
+ ar-2025-2026_250919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8b752549c30244ce8b0a@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260302
+SUMMARY:Week 7 (Spring 2026 Session 1)
+DESCRIPTION:Week 7 of 7\, Spring 2026 Session 1. Mon 23 Feb - Sun 1 Mar 202
+ 6. Mon 23 Feb is still Spring Festival holiday (its Monday classes met on 
+ Fri 13 Feb)\; classes resume Tue 24 Feb and the session ends Thu 26 Feb. (
+ Week numbers are derived from the registrar's session dates\; the registra
+ r does not print them.)\n\nAY2025-26 — source: https://newstatic.dukekun
+ shan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_25091
+ 9_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:580dc2975c35f712b43d@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260309
+SUMMARY:Week 8 Final (Spring 2026 Session 1)
+DESCRIPTION:Final examinations week\, Spring 2026 Session 1. Mon 2 Mar - Su
+ n 8 Mar 2026. See the registrar's reading-period and final-examination eve
+ nts for the exact days. (Week numbers are derived from the registrar's ses
+ sion dates\; the registrar does not print them.)\n\nAY2025-26 — source: 
+ https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic
+ -Calendar-2025-2026_250919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5a44567681a2629a96f1@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260323
+SUMMARY:Week 1 (Spring 2026 Session 2)
+DESCRIPTION:Week 1 of 7\, Spring 2026 Session 2. Mon 16 Mar - Sun 22 Mar 20
+ 26. (Week numbers are derived from the registrar's session dates\; the reg
+ istrar does not print them.)\n\nAY2025-26 — source: https://newstatic.du
+ kekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_
+ 250919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:960ba88f115211c67026@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260330
+SUMMARY:Week 2 (Spring 2026 Session 2)
+DESCRIPTION:Week 2 of 7\, Spring 2026 Session 2. Mon 23 Mar - Sun 29 Mar 20
+ 26. (Week numbers are derived from the registrar's session dates\; the reg
+ istrar does not print them.)\n\nAY2025-26 — source: https://newstatic.du
+ kekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_
+ 250919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:69e21f06606891c40857@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260406
+SUMMARY:Week 3 (Spring 2026 Session 2)
+DESCRIPTION:Week 3 of 7\, Spring 2026 Session 2. Mon 30 Mar - Sun 5 Apr 202
+ 6. (Week numbers are derived from the registrar's session dates\; the regi
+ strar does not print them.)\n\nAY2025-26 — source: https://newstatic.duk
+ ekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_2
+ 50919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:93b608f104a5d30fc11a@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260413
+SUMMARY:Week 4 (Spring 2026 Session 2)
+DESCRIPTION:Week 4 of 7\, Spring 2026 Session 2. Mon 6 Apr - Sun 12 Apr 202
+ 6. (Week numbers are derived from the registrar's session dates\; the regi
+ strar does not print them.)\n\nAY2025-26 — source: https://newstatic.duk
+ ekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_2
+ 50919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:367e03cf86ca8d348a89@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260420
+SUMMARY:Week 5 (Spring 2026 Session 2)
+DESCRIPTION:Week 5 of 7\, Spring 2026 Session 2. Mon 13 Apr - Sun 19 Apr 20
+ 26. (Week numbers are derived from the registrar's session dates\; the reg
+ istrar does not print them.)\n\nAY2025-26 — source: https://newstatic.du
+ kekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_
+ 250919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:40fab5b53bf3f648dc27@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260427
+SUMMARY:Week 6 (Spring 2026 Session 2)
+DESCRIPTION:Week 6 of 7\, Spring 2026 Session 2. Mon 20 Apr - Sun 26 Apr 20
+ 26. (Week numbers are derived from the registrar's session dates\; the reg
+ istrar does not print them.)\n\nAY2025-26 — source: https://newstatic.du
+ kekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_
+ 250919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6c5c125042b350706164@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260504
+SUMMARY:Week 7 (Spring 2026 Session 2)
+DESCRIPTION:Week 7 of 7\, Spring 2026 Session 2. Mon 27 Apr - Sun 3 May 202
+ 6. (Week numbers are derived from the registrar's session dates\; the regi
+ strar does not print them.)\n\nAY2025-26 — source: https://newstatic.duk
+ ekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemic-Calendar-2025-2026_2
+ 50919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb4d4757dec970f1c0e@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260511
+SUMMARY:Week 8 Final (Spring 2026 Session 2)
+DESCRIPTION:Final examinations week\, Spring 2026 Session 2. Mon 4 May - Su
+ n 10 May 2026. See the registrar's reading-period and final-examination ev
+ ents for the exact days. (Week numbers are derived from the registrar's se
+ ssion dates\; the registrar does not print them.)\n\nAY2025-26 — source:
+  https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acdemi
+ c-Calendar-2025-2026_250919_v2.pdf
+URL:https://newstatic.dukekunshan.edu.cn/mainsite/2025/11/21102804/DKU-Acde
+ mic-Calendar-2025-2026_250919_v2.pdf
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2025-26,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:228aaabb6831e844f30e@dku-academic-calendar.local
 DTSTAMP:20260722T000000Z
 SEQUENCE:0
@@ -1987,6 +2604,559 @@ DESCRIPTION:Saturday at 13:00. All residence halls close.\n\nAY2026-27 —
 URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
 LOCATION:Duke Kunshan University
 CATEGORIES:DKU AY2026-27
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fac1fb4a774ab36e3063@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260831
+SUMMARY:Week 1 (Fall 2026 Session 1)
+DESCRIPTION:Week 1 of 7\, Fall 2026 Session 1. Mon 24 Aug - Sun 30 Aug 2026
+ . (Week numbers are derived from the registrar's session dates\; the regis
+ trar does not print them.)\n\nAY2026-27 — source: https://registrar.duke
+ kunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7f98aa88e9f07539c436@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260907
+SUMMARY:Week 2 (Fall 2026 Session 1)
+DESCRIPTION:Week 2 of 7\, Fall 2026 Session 1. Mon 31 Aug - Sun 6 Sep 2026.
+  (Week numbers are derived from the registrar's session dates\; the regist
+ rar does not print them.)\n\nAY2026-27 — source: https://registrar.dukek
+ unshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4ff56567d88274a1d185@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260914
+SUMMARY:Week 3 (Fall 2026 Session 1)
+DESCRIPTION:Week 3 of 7\, Fall 2026 Session 1. Mon 7 Sep - Sun 13 Sep 2026.
+  (Week numbers are derived from the registrar's session dates\; the regist
+ rar does not print them.)\n\nAY2026-27 — source: https://registrar.dukek
+ unshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:82ae39f80c53029782a8@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260921
+SUMMARY:Week 4 (Fall 2026 Session 1)
+DESCRIPTION:Week 4 of 7\, Fall 2026 Session 1. Mon 14 Sep - Sun 20 Sep 2026
+ . (Week numbers are derived from the registrar's session dates\; the regis
+ trar does not print them.)\n\nAY2026-27 — source: https://registrar.duke
+ kunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:25baffa736e90669a0a4@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260928
+SUMMARY:Week 5 (Fall 2026 Session 1)
+DESCRIPTION:Week 5 of 7\, Fall 2026 Session 1. Mon 21 Sep - Sun 27 Sep 2026
+ . (Week numbers are derived from the registrar's session dates\; the regis
+ trar does not print them.)\n\nAY2026-27 — source: https://registrar.duke
+ kunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8d9200da6d84fe7c5699@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261005
+SUMMARY:Week 6 (Fall 2026 Session 1)
+DESCRIPTION:Week 6 of 7\, Fall 2026 Session 1. Mon 28 Sep - Sun 4 Oct 2026.
+  Thu 1 Oct and Fri 2 Oct are National Day holiday\; the lost Thursday clas
+ ses met early\, on Fri 18 Sep. (Week numbers are derived from the registra
+ r's session dates\; the registrar does not print them.)\n\nAY2026-27 — s
+ ource: https://registrar.dukekunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bcf02341e80228dcc2e8@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261019
+SUMMARY:Week 7 (Fall 2026 Session 1)
+DESCRIPTION:Week 7 of 7\, Fall 2026 Session 1. Mon 12 Oct - Sun 18 Oct 2026
+ . (Week numbers are derived from the registrar's session dates\; the regis
+ trar does not print them.)\n\nAY2026-27 — source: https://registrar.duke
+ kunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b385967a05d5a37c7ef5@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261026
+SUMMARY:Week 8 Final (Fall 2026 Session 1)
+DESCRIPTION:Final examinations week\, Fall 2026 Session 1. Mon 19 Oct - Sun
+  25 Oct 2026. See the registrar's reading-period and final-examination eve
+ nts for the exact days. (Week numbers are derived from the registrar's ses
+ sion dates\; the registrar does not print them.)\n\nAY2026-27 — source: 
+ https://registrar.dukekunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:90aad0461e9e8f7df1f9@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261102
+SUMMARY:Week 1 (Fall 2026 Session 2)
+DESCRIPTION:Week 1 of 7\, Fall 2026 Session 2. Mon 26 Oct - Sun 1 Nov 2026.
+  (Week numbers are derived from the registrar's session dates\; the regist
+ rar does not print them.)\n\nAY2026-27 — source: https://registrar.dukek
+ unshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8420d6cf8e315047f372@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261109
+SUMMARY:Week 2 (Fall 2026 Session 2)
+DESCRIPTION:Week 2 of 7\, Fall 2026 Session 2. Mon 2 Nov - Sun 8 Nov 2026. 
+ (Week numbers are derived from the registrar's session dates\; the registr
+ ar does not print them.)\n\nAY2026-27 — source: https://registrar.dukeku
+ nshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d840121d1c56f272995b@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261116
+SUMMARY:Week 3 (Fall 2026 Session 2)
+DESCRIPTION:Week 3 of 7\, Fall 2026 Session 2. Mon 9 Nov - Sun 15 Nov 2026.
+  (Week numbers are derived from the registrar's session dates\; the regist
+ rar does not print them.)\n\nAY2026-27 — source: https://registrar.dukek
+ unshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:89b4814c3be1857757cc@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261123
+SUMMARY:Week 4 (Fall 2026 Session 2)
+DESCRIPTION:Week 4 of 7\, Fall 2026 Session 2. Mon 16 Nov - Sun 22 Nov 2026
+ . (Week numbers are derived from the registrar's session dates\; the regis
+ trar does not print them.)\n\nAY2026-27 — source: https://registrar.duke
+ kunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2ba948342e8e50d6b902@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261130
+SUMMARY:Week 5 (Fall 2026 Session 2)
+DESCRIPTION:Week 5 of 7\, Fall 2026 Session 2. Mon 23 Nov - Sun 29 Nov 2026
+ . (Week numbers are derived from the registrar's session dates\; the regis
+ trar does not print them.)\n\nAY2026-27 — source: https://registrar.duke
+ kunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fee3440d8fc45a73f368@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261207
+SUMMARY:Week 6 (Fall 2026 Session 2)
+DESCRIPTION:Week 6 of 7\, Fall 2026 Session 2. Mon 30 Nov - Sun 6 Dec 2026.
+  (Week numbers are derived from the registrar's session dates\; the regist
+ rar does not print them.)\n\nAY2026-27 — source: https://registrar.dukek
+ unshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b3d5a5ac65ad9300087c@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261214
+SUMMARY:Week 7 (Fall 2026 Session 2)
+DESCRIPTION:Week 7 of 7\, Fall 2026 Session 2. Mon 7 Dec - Sun 13 Dec 2026.
+  (Week numbers are derived from the registrar's session dates\; the regist
+ rar does not print them.)\n\nAY2026-27 — source: https://registrar.dukek
+ unshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ba4c1e89c8e2a28df1d2@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261221
+SUMMARY:Week 8 Final (Fall 2026 Session 2)
+DESCRIPTION:Final examinations week\, Fall 2026 Session 2. Mon 14 Dec - Sun
+  20 Dec 2026. See the registrar's reading-period and final-examination eve
+ nts for the exact days. (Week numbers are derived from the registrar's ses
+ sion dates\; the registrar does not print them.)\n\nAY2026-27 — source: 
+ https://registrar.dukekunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e9b82f29a4fd8f76c113@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270118
+SUMMARY:Week 1 (Spring 2027 Session 1)
+DESCRIPTION:Week 1 of 7\, Spring 2027 Session 1. Mon 11 Jan - Sun 17 Jan 20
+ 27. (Week numbers are derived from the registrar's session dates\; the reg
+ istrar does not print them.)\n\nAY2026-27 — source: https://registrar.du
+ kekunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:47f06d39b0021eb7c5d4@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270125
+SUMMARY:Week 2 (Spring 2027 Session 1)
+DESCRIPTION:Week 2 of 7\, Spring 2027 Session 1. Mon 18 Jan - Sun 24 Jan 20
+ 27. (Week numbers are derived from the registrar's session dates\; the reg
+ istrar does not print them.)\n\nAY2026-27 — source: https://registrar.du
+ kekunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:34c07620954df267a0df@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270201
+SUMMARY:Week 3 (Spring 2027 Session 1)
+DESCRIPTION:Week 3 of 7\, Spring 2027 Session 1. Mon 25 Jan - Sun 31 Jan 20
+ 27. (Week numbers are derived from the registrar's session dates\; the reg
+ istrar does not print them.)\n\nAY2026-27 — source: https://registrar.du
+ kekunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:67d19117c544a8c12d0f@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270208
+SUMMARY:Week 4 (Spring 2027 Session 1)
+DESCRIPTION:Week 4 of 7\, Spring 2027 Session 1. Mon 1 Feb - Sun 7 Feb 2027
+ . Spring Festival holiday begins Fri 5 Feb. (Week numbers are derived from
+  the registrar's session dates\; the registrar does not print them.)\n\nAY
+ 2026-27 — source: https://registrar.dukekunshan.edu.cn/academic-calendar
+ /
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c1cd8ed77bd7c2011d6b@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270222
+SUMMARY:Week 5 (Spring 2027 Session 1)
+DESCRIPTION:Week 5 of 7\, Spring 2027 Session 1. Mon 15 Feb - Sun 21 Feb 20
+ 27. (Week numbers are derived from the registrar's session dates\; the reg
+ istrar does not print them.)\n\nAY2026-27 — source: https://registrar.du
+ kekunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:610dcab21c34e13b279d@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270301
+SUMMARY:Week 6 (Spring 2027 Session 1)
+DESCRIPTION:Week 6 of 7\, Spring 2027 Session 1. Mon 22 Feb - Sun 28 Feb 20
+ 27. (Week numbers are derived from the registrar's session dates\; the reg
+ istrar does not print them.)\n\nAY2026-27 — source: https://registrar.du
+ kekunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:08a7ee8ab3b8ad323a13@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270308
+SUMMARY:Week 7 (Spring 2027 Session 1)
+DESCRIPTION:Week 7 of 7\, Spring 2027 Session 1. Mon 1 Mar - Sun 7 Mar 2027
+ . (Week numbers are derived from the registrar's session dates\; the regis
+ trar does not print them.)\n\nAY2026-27 — source: https://registrar.duke
+ kunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5eab399b9a22b9c1bcdc@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270315
+SUMMARY:Week 8 Final (Spring 2027 Session 1)
+DESCRIPTION:Final examinations week\, Spring 2027 Session 1. Mon 8 Mar - Su
+ n 14 Mar 2027. See the registrar's reading-period and final-examination ev
+ ents for the exact days. (Week numbers are derived from the registrar's se
+ ssion dates\; the registrar does not print them.)\n\nAY2026-27 — source:
+  https://registrar.dukekunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d1f5effce98f2fcb47d0@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270329
+SUMMARY:Week 1 (Spring 2027 Session 2)
+DESCRIPTION:Week 1 of 7\, Spring 2027 Session 2. Mon 22 Mar - Sun 28 Mar 20
+ 27. (Week numbers are derived from the registrar's session dates\; the reg
+ istrar does not print them.)\n\nAY2026-27 — source: https://registrar.du
+ kekunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:34a572ee85491a61e029@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270405
+SUMMARY:Week 2 (Spring 2027 Session 2)
+DESCRIPTION:Week 2 of 7\, Spring 2027 Session 2. Mon 29 Mar - Sun 4 Apr 202
+ 7. (Week numbers are derived from the registrar's session dates\; the regi
+ strar does not print them.)\n\nAY2026-27 — source: https://registrar.duk
+ ekunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f86e8f2babf0a02e2624@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270412
+SUMMARY:Week 3 (Spring 2027 Session 2)
+DESCRIPTION:Week 3 of 7\, Spring 2027 Session 2. Mon 5 Apr - Sun 11 Apr 202
+ 7. Mon 5 Apr is Qing Ming holiday\; Tue-Fri run the Monday-Thursday class 
+ schedules\, one day late. (Week numbers are derived from the registrar's s
+ ession dates\; the registrar does not print them.)\n\nAY2026-27 — source
+ : https://registrar.dukekunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cd2f04d551c789c8e0d1@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270419
+SUMMARY:Week 4 (Spring 2027 Session 2)
+DESCRIPTION:Week 4 of 7\, Spring 2027 Session 2. Mon 12 Apr - Sun 18 Apr 20
+ 27. (Week numbers are derived from the registrar's session dates\; the reg
+ istrar does not print them.)\n\nAY2026-27 — source: https://registrar.du
+ kekunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e631596da7abcc613469@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270426
+SUMMARY:Week 5 (Spring 2027 Session 2)
+DESCRIPTION:Week 5 of 7\, Spring 2027 Session 2. Mon 19 Apr - Sun 25 Apr 20
+ 27. (Week numbers are derived from the registrar's session dates\; the reg
+ istrar does not print them.)\n\nAY2026-27 — source: https://registrar.du
+ kekunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:aaa870f94b66c3f0a668@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270503
+SUMMARY:Week 6 (Spring 2027 Session 2)
+DESCRIPTION:Week 6 of 7\, Spring 2027 Session 2. Mon 26 Apr - Sun 2 May 202
+ 7. (Week numbers are derived from the registrar's session dates\; the regi
+ strar does not print them.)\n\nAY2026-27 — source: https://registrar.duk
+ ekunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:15a6e198db4a5a7fc3c8@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270510
+SUMMARY:Week 7 (Spring 2027 Session 2)
+DESCRIPTION:Week 7 of 7\, Spring 2027 Session 2. Mon 3 May - Sun 9 May 2027
+ . Mon 3 May is Labor Day holiday\; Tue-Fri run the Monday-Thursday class s
+ chedules\, one day late\, and the session ends Fri 7 May. (Week numbers ar
+ e derived from the registrar's session dates\; the registrar does not prin
+ t them.)\n\nAY2026-27 — source: https://registrar.dukekunshan.edu.cn/aca
+ demic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1973bb8827ff97f761a4@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270517
+SUMMARY:Week 8 Final (Spring 2027 Session 2)
+DESCRIPTION:Final examinations week\, Spring 2027 Session 2. Mon 10 May - S
+ un 16 May 2027. See the registrar's reading-period and final-examination e
+ vents for the exact days. (Week numbers are derived from the registrar's s
+ ession dates\; the registrar does not print them.)\n\nAY2026-27 — source
+ : https://registrar.dukekunshan.edu.cn/academic-calendar/
+URL:https://registrar.dukekunshan.edu.cn/academic-calendar/
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU AY2026-27,DKU Weeks
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT

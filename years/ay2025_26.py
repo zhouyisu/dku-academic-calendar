@@ -146,3 +146,56 @@ EVENTS = [
     ("2026-05-16 13:00", None, "All residence halls close",
      "Saturday at 13:00. All residence halls close."),
 ]
+
+# Teaching weeks of each 7-week undergraduate session, for the "Week N"
+# banners. Each entry is the Monday of a Mon-Sun week; a holiday-disrupted
+# week is (start, end, note). Seven weeks per session; `finals` is the Monday
+# of the exam week ("Week 8 Final"). A calendar week that is entirely holiday
+# (Spring Festival) is simply not listed, so the count resumes after it.
+SESSIONS = [
+    {
+        "name": "Fall 2025 Session 1",
+        "weeks": [
+            "2025-08-18", "2025-08-25", "2025-09-01", "2025-09-08",
+            "2025-09-15", "2025-09-22",
+            ("2025-09-29", "2025-10-12",
+             "Split by the National Day / Mid-Autumn holiday (1-8 Oct): "
+             "Mon/Tue classes on 29-30 Sep, then the Wednesday schedule on "
+             "Thu 9 Oct and the Thursday schedule on Fri 10 Oct, when the "
+             "session ends."),
+        ],
+        "finals": "2025-10-13",
+    },
+    {
+        "name": "Fall 2025 Session 2",
+        "weeks": [
+            "2025-10-20", "2025-10-27", "2025-11-03", "2025-11-10",
+            "2025-11-17", "2025-11-24", "2025-12-01",
+        ],
+        "finals": "2025-12-08",
+    },
+    {
+        "name": "Spring 2026 Session 1",
+        "weeks": [
+            "2026-01-05", "2026-01-12", "2026-01-19", "2026-01-26",
+            "2026-02-02",
+            ("2026-02-09", "2026-02-15",
+             "Fri 13 Feb runs the Monday class schedule, making up for "
+             "Mon 23 Feb (Spring Festival)."),
+            # 16-22 Feb is entirely Spring Festival holiday: no week number.
+            ("2026-02-23", "2026-03-01",
+             "Mon 23 Feb is still Spring Festival holiday (its Monday classes "
+             "met on Fri 13 Feb); classes resume Tue 24 Feb and the session "
+             "ends Thu 26 Feb."),
+        ],
+        "finals": "2026-03-02",
+    },
+    {
+        "name": "Spring 2026 Session 2",
+        "weeks": [
+            "2026-03-16", "2026-03-23", "2026-03-30", "2026-04-06",
+            "2026-04-13", "2026-04-20", "2026-04-27",
+        ],
+        "finals": "2026-05-04",
+    },
+]

@@ -4,8 +4,9 @@ An importable / subscribable calendar of Duke Kunshan University academic
 dates, transcribed from the [Office of the
 Registrar](https://registrar.dukekunshan.edu.cn/academic-calendar/).
 
-**Currently covers AY2025-26 and AY2026-27 — 126 events**, including Sports
-Complex holiday closures from Athletics notices.
+**Currently covers AY2025-26 and AY2026-27 — 190 events**, including Sports
+Complex holiday closures from Athletics notices and a "Week 1" … "Week 7" /
+"Week 8 Final" banner across every 7-week undergraduate session.
 
 ## Subscribe
 
@@ -49,6 +50,14 @@ and double-click it instead.)*
 - Events are marked free (`TRANSP:TRANSPARENT`), so the calendar doesn't make
   you look busy to colleagues checking your availability.
 - Each event is tagged with its academic year (`DKU AY2026-27`) as a category.
+- **Week banners.** Each 7-week undergraduate session gets an all-day
+  Mon-Sun event per teaching week, titled `Week 4 (Fall 2026 Session 1)`,
+  and `Week 8 Final (…)` over the exam week, so "we're in week 4" matches
+  what the calendar shows. A calendar week that is entirely holiday
+  (National Day, Spring Festival) carries no number and the count resumes
+  after it; a week a holiday splits or shifts says so in its notes. These
+  are derived from the registrar's dates, not printed by the registrar, and
+  carry the extra category `DKU Weeks`.
 - Sports Complex closures and holiday service hours from Athletics emails are
   tagged `DKU Athletics` and name the notice as their source. To add a future
   notice, add rows to (or copy) `years/ay2026_27_athletics.py` — set
@@ -78,13 +87,18 @@ dku_academic_calendar.ics    the built output — this is what people subscribe 
    - `end = None` → single day. Otherwise the **last day** of the range,
      inclusive — `build.py` handles the off-by-one that iCalendar requires.
    - Add a time to the start (`"2027-08-14 09:00"`) for a timed event.
-4. `python3 build.py` — it rebuilds and runs self-checks
-5. Commit and push. The subscription URL never changes.
+4. Replace the `SESSIONS` table: for each 7-week undergraduate session, the
+   Monday of each of its seven teaching weeks plus the Monday of its finals
+   week. Leave out any Monday whose whole week is holiday; write a week a
+   holiday splits or shifts as `(start, end, "note")`. `build.py` refuses a
+   session without exactly seven weeks before its finals Monday.
+5. `python3 build.py` — it rebuilds and runs self-checks
+6. Commit and push. The subscription URL never changes.
 
 Nothing else needs touching; `build.py` picks up any `years/ay*.py`
 automatically and sorts by filename.
 
-Fastest way to do step 3: paste the registrar's page text to an LLM and ask it
+Fastest way to do step 3 (and 4): paste the registrar's page text to an LLM and ask it
 to produce the `EVENTS` table in this format. Then spot-check five or six dates
 against the source — the registrar's own day-of-week labels occasionally
 disagree with their dates, so one human pass is still worth it.

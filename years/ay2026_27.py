@@ -174,3 +174,58 @@ EVENTS = [
     ("2027-05-22 13:00", None, "All residence halls close",
      "Saturday at 13:00. All residence halls close."),
 ]
+
+# Teaching weeks of each 7-week undergraduate session, for the "Week N"
+# banners. Each entry is the Monday of a Mon-Sun week; a holiday-disrupted
+# week is (start, end, note). Seven weeks per session; `finals` is the Monday
+# of the exam week ("Week 8 Final"). A calendar week that is entirely holiday
+# (National Day, Spring Festival) is simply not listed, so the count resumes
+# after it.
+SESSIONS = [
+    {
+        "name": "Fall 2026 Session 1",
+        "weeks": [
+            "2026-08-24", "2026-08-31", "2026-09-07", "2026-09-14",
+            "2026-09-21",
+            ("2026-09-28", "2026-10-04",
+             "Thu 1 Oct and Fri 2 Oct are National Day holiday; the lost "
+             "Thursday classes met early, on Fri 18 Sep."),
+            # 5-11 Oct is entirely National Day holiday: no week number.
+            "2026-10-12",
+        ],
+        "finals": "2026-10-19",
+    },
+    {
+        "name": "Fall 2026 Session 2",
+        "weeks": [
+            "2026-10-26", "2026-11-02", "2026-11-09", "2026-11-16",
+            "2026-11-23", "2026-11-30", "2026-12-07",
+        ],
+        "finals": "2026-12-14",
+    },
+    {
+        "name": "Spring 2027 Session 1",
+        "weeks": [
+            "2027-01-11", "2027-01-18", "2027-01-25",
+            ("2027-02-01", "2027-02-07",
+             "Spring Festival holiday begins Fri 5 Feb."),
+            # 8-14 Feb is entirely Spring Festival holiday: no week number.
+            "2027-02-15", "2027-02-22", "2027-03-01",
+        ],
+        "finals": "2027-03-08",
+    },
+    {
+        "name": "Spring 2027 Session 2",
+        "weeks": [
+            "2027-03-22", "2027-03-29",
+            ("2027-04-05", "2027-04-11",
+             "Mon 5 Apr is Qing Ming holiday; Tue-Fri run the Monday-Thursday "
+             "class schedules, one day late."),
+            "2027-04-12", "2027-04-19", "2027-04-26",
+            ("2027-05-03", "2027-05-09",
+             "Mon 3 May is Labor Day holiday; Tue-Fri run the Monday-Thursday "
+             "class schedules, one day late, and the session ends Fri 7 May."),
+        ],
+        "finals": "2027-05-10",
+    },
+]
