@@ -3258,4 +3258,22 @@ CATEGORIES:DKU Athletics
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:d168a08bc5ede71bcd71@dku-academic-calendar.local
+DTSTAMP:20260722T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20270104
+SUMMARY:Campus closed - winter break / annual maintenance
+DESCRIPTION:Thursday 24 December 2026 through Sunday 3 January 2027. The ca
+ mpus is closed for the winter break and annual maintenance of facilities\;
+  normal working operations resume Monday 4 January 2027. For staff this is
+  6 additional paid days off on top of the scheduled holidays.\n\nAY2026-27
+  — source: University administration (campus-wide email notice\, Oct 202
+ 6)
+LOCATION:Duke Kunshan University
+CATEGORIES:DKU Campus Closures
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR

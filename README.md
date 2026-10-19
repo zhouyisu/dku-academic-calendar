@@ -4,9 +4,10 @@ An importable / subscribable calendar of Duke Kunshan University academic
 dates, transcribed from the [Office of the
 Registrar](https://registrar.dukekunshan.edu.cn/academic-calendar/).
 
-**Currently covers AY2025-26 and AY2026-27 — 190 events**, including Sports
-Complex holiday closures from Athletics notices and a "Week 1" … "Week 7" /
-"Week 8 Final" banner across every 7-week undergraduate session.
+**Currently covers AY2025-26 and AY2026-27 — 191 events**, including campus
+closures announced by the University administration, Sports Complex holiday
+closures from Athletics notices, and a "Week 1" … "Week 7" / "Week 8 Final"
+banner across every 7-week undergraduate session.
 
 ## Subscribe
 
@@ -58,9 +59,12 @@ and double-click it instead.)*
   after it; a week a holiday splits or shifts says so in its notes. These
   are derived from the registrar's dates, not printed by the registrar, and
   carry the extra category `DKU Weeks`.
-- Sports Complex closures and holiday service hours from Athletics emails are
-  tagged `DKU Athletics` and name the notice as their source. To add a future
-  notice, add rows to (or copy) `years/ay2026_27_athletics.py` — set
+- Campus closures announced by email from the University administration
+  (e.g. the 24 Dec 2026 – 3 Jan 2027 winter closure) are tagged
+  `DKU Campus Closures`; Sports Complex closures and holiday service hours
+  from Athletics emails are tagged `DKU Athletics`. Both name the notice as
+  their source. To add a future notice, add rows to (or copy)
+  `years/ay2026_27_campus.py` or `years/ay2026_27_athletics.py` — set
   `SOURCE_URL = None` plus a `SOURCE` line when there's no web page to link.
 
 ## Repo layout
@@ -70,6 +74,7 @@ build.py                     the generator + self-checks
 years/ay2025_26.py           one editable table per academic year
 years/ay2026_27.py
 years/ay2026_27_athletics.py Sports Complex / facility notices (not from the registrar)
+years/ay2026_27_campus.py    campus closures announced by the administration (not from the registrar)
 dku_academic_calendar.ics    the built output — this is what people subscribe to
 ```
 
