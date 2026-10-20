@@ -7,7 +7,7 @@ Registrar](https://registrar.dukekunshan.edu.cn/academic-calendar/).
 **Currently covers AY2025-26 and AY2026-27 — 191 events**, including campus
 closures announced by the University administration, Sports Complex holiday
 closures from Athletics notices, and a "Week 1" … "Week 7" / "Week 8 Final"
-banner across every 7-week undergraduate session.
+marker on the Monday of every week of every 7-week undergraduate session.
 
 ## Subscribe
 
@@ -51,14 +51,18 @@ and double-click it instead.)*
 - Events are marked free (`TRANSP:TRANSPARENT`), so the calendar doesn't make
   you look busy to colleagues checking your availability.
 - Each event is tagged with its academic year (`DKU AY2026-27`) as a category.
-- **Week banners.** Each 7-week undergraduate session gets an all-day
-  Mon-Sun event per teaching week, titled `Week 4 (Fall 2026 Session 1)`,
-  and `Week 8 Final (…)` over the exam week, so "we're in week 4" matches
-  what the calendar shows. A calendar week that is entirely holiday
-  (National Day, Spring Festival) carries no number and the count resumes
-  after it; a week a holiday splits or shifts says so in its notes. These
-  are derived from the registrar's dates, not printed by the registrar, and
-  carry the extra category `DKU Weeks`.
+- **Week markers.** Each 7-week undergraduate session gets a one-day
+  all-day event on the Monday of every teaching week, titled
+  `Week 4 · Fall S1`, and `Week 8 Final · Fall S1` on the Monday of the
+  exam week, so "we're in week 4" matches what the calendar shows. They sit
+  on the Monday only, not across Mon-Sun, so a month view shows one small
+  chip per week instead of a full-width bar that pushes your own events
+  into "+N more"; the week's full date range is in the notes. A calendar
+  week that is entirely holiday (National Day, Spring Festival) carries no
+  number and the count resumes after it; a week a holiday splits or shifts
+  says so in its notes. These are derived from the registrar's dates, not
+  printed by the registrar, and carry the extra category `DKU Weeks`, so
+  clients that filter by category can hide them.
 - Campus closures announced by email from the University administration
   (e.g. the 24 Dec 2026 – 3 Jan 2027 winter closure) are tagged
   `DKU Campus Closures`; Sports Complex closures and holiday service hours

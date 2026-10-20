@@ -22,11 +22,14 @@ Adding a year
                (inclusive - the off-by-one iCalendar wants is handled here)
 4. Update SESSIONS: one entry per 7-week undergraduate session, listing the
    Monday of each of its seven teaching weeks plus the Monday of its finals
-   week. build.py turns these into "Week 1" ... "Week 7" / "Week 8 Final"
-   all-day banners (Mon-Sun). A week that a holiday splits or shifts can be
-   given as (start, end, note) instead of a bare Monday. The checks below
-   refuse a session that does not have exactly seven weeks ending before its
-   finals Monday, so a miscounted holiday fails loudly.
+   week. build.py turns these into "Week 1 · Fall S1" ... "Week 7 · Fall S1"
+   / "Week 8 Final · Fall S1" markers: a single all-day event on each
+   week's Monday, so a month view shows one small chip per week rather than
+   a full-width Mon-Sun bar. The week's full date range and any holiday
+   note live in the event notes. A week that a holiday splits or shifts
+   can be given as (start, end, note) instead of a bare Monday. The checks
+   below refuse a session that does not have exactly seven weeks ending
+   before its finals Monday, so a miscounted holiday fails loudly.
 5. python3 build.py && git commit -am "Add AY2027-28" && git push
 
 Editing an existing year: change the row, rerun, commit. Because event IDs are
@@ -39,6 +42,7 @@ that is the point of subscribing rather than importing.
 import hashlib
 import importlib.util
 import pathlib
+import re
 from datetime import date, timedelta
 
 HERE = pathlib.Path(__file__).parent
@@ -103,9 +107,23 @@ def week_range(entry):
     return date.fromisoformat(start), date.fromisoformat(end), (rest or [None])[0]
 
 
+def short_session(name):
+    """'Fall 2026 Session 1' -> 'Fall S1'. The year is dropped because the
+    chip already sits on a dated Monday; anything that doesn't match the
+    pattern is left as is."""
+    short = re.sub(r"\s*\b(19|20)\d{2}\b", "", name)
+    short = re.sub(r"\bSession\s*(\d+)", r"S\1", short)
+    return " ".join(short.split())
+
+
 def expand_sessions(year):
     """Turn a year's SESSIONS table into (start, end, summary, description)
-    rows, one per teaching week plus one for the finals week."""
+    rows, one per teaching week plus one for the finals week.
+
+    Each row is a one-day all-day event on the week's Monday (end == start),
+    deliberately not a Mon-Sun span: week-long all-day bars stack above
+    everything else in a month view and push real events into "+N more".
+    The full Mon-Sun range is spelled out in the description instead."""
     rows = []
     for session in getattr(year, "SESSIONS", []):
         name, weeks, finals = session["name"], session["weeks"], session["finals"]
@@ -131,11 +149,11 @@ def expand_sessions(year):
             if note:
                 text += " " + note
             text += " " + DERIVED_NOTE
-            rows.append((first.isoformat(), last.isoformat(),
-                         f"Week {n} ({name})", text))
+            rows.append((first.isoformat(), first.isoformat(),
+                         f"Week {n} · {short_session(name)}", text))
         finals_last = finals_first + timedelta(days=6)
-        rows.append((finals, finals_last.isoformat(),
-                     f"Week {WEEKS_PER_SESSION + 1} Final ({name})",
+        rows.append((finals, finals,
+                     f"Week {WEEKS_PER_SESSION + 1} Final · {short_session(name)}",
                      f"Final examinations week, {name}. "
                      f"{finals_first:%a %-d %b} - {finals_last:%a %-d %b %Y}. "
                      "See the registrar's reading-period and final-examination "
@@ -243,7 +261,7 @@ def build():
     def count(y):
         n_weeks = len(expand_sessions(y))
         return (f"{len(y.EVENTS)}" if not n_weeks
-                else f"{len(y.EVENTS)} + {n_weeks} week banners")
+                else f"{len(y.EVENTS)} + {n_weeks} week markers")
     label = ", ".join(f"{getattr(y, 'CATEGORY', f'AY{y.AY}')} ({count(y)})"
                       for y in years)
     print(f"Wrote {OUTFILE.name}: {total} events across {len(years)} years")
